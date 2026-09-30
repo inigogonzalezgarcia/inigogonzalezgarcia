@@ -19,7 +19,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 01 | [FinOps Cloud Cost Dashboard](https://github.com/inigogonzalezgarcia/01-finops-cloud-cost-dashboard) | Cloud cost drift and anomalies across AWS and Azure | ✅ Live |
 | 02 | [Intune Device Compliance Report](https://github.com/inigogonzalezgarcia/02-intune-compliance-report) | Endpoint compliance visibility for IT and management | ✅ Live |
 | 03 | [Entra ID Identity Hygiene Audit](https://github.com/inigogonzalezgarcia/03-entra-id-hygiene-audit) | Inactive accounts, stale guests and users without MFA | ✅ Live |
-| 04 | ITSM KPI Dashboard | MTTR, SLA and backlog tracking for service desks | 🛠️ Planned |
+| 04 | [ITSM Service Desk KPI Dashboard](https://github.com/inigogonzalezgarcia/04-itsm-kpi-dashboard) | MTTR, SLA and backlog tracking for service desks | ✅ Live |
 | 05 | IT Ops Console Lite | A single view for day-to-day operations | 🛠️ Planned |
 
 ---
