@@ -6,7 +6,7 @@ This GitHub is where I turn lessons from that work into small, practical tools.
 
 **Focus areas:** IT operations in critical environments · Modern Workplace · ITSM and service delivery · Security and resilience · Automation and FinOps
 
-**Stack:** Python · pandas · Streamlit · AWS · Microsoft 365 · ServiceNow
+**Stack:** Python · pandas · Streamlit · PowerShell · Microsoft Graph · AWS · Microsoft 365 · ServiceNow
 
 ---
 
@@ -17,7 +17,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | # | Project | Problem it tackles | Status |
 |---|---|---|---|
 | 01 | [FinOps Cloud Cost Dashboard](https://github.com/inigogonzalezgarcia/01-finops-cloud-cost-dashboard) | Cloud cost drift and anomalies across AWS and Azure | ✅ Live |
-| 02 | Device Compliance Report | Endpoint compliance visibility for IT and management | 🛠️ Planned |
+| 02 | [Intune Device Compliance Report](https://github.com/inigogonzalezgarcia/02-intune-compliance-report) | Endpoint compliance visibility for IT and management | ✅ Live |
 | 03 | Identity Hygiene Audit | Inactive accounts, stale guests and users without MFA | 🛠️ Planned |
 | 04 | ITSM KPI Dashboard | MTTR, SLA and backlog tracking for service desks | 🛠️ Planned |
 | 05 | IT Ops Console Lite | A single view for day-to-day operations | 🛠️ Planned |
@@ -34,4 +34,6 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 2016 – 2018 | IT Support / Systems Engineer | Luxury retail, multinational |
 | 2015 – 2016 | IT Support Engineer | Technology consultancy |
 
-📫 [LinkedIn](https://www.linkedin.com/in/igonzalez93)
+### Customisation and contact
+
+Want one of these tools adapted to your environment? Email me at [inigogonzalezgarcia@yahoo.es](mailto:inigogonzalezgarcia@yahoo.es) or reach out on [LinkedIn](https://www.linkedin.com/in/igonzalez93).
