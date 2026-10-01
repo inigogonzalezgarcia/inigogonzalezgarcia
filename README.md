@@ -24,7 +24,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 04 | [ITSM Service Desk KPI Dashboard](https://github.com/inigogonzalezgarcia/04-itsm-kpi-dashboard) | MTTR, SLA and backlog tracking for service desks | ✅ Live |
 | 05 | [IT Ops Console](https://github.com/inigogonzalezgarcia/05-it-ops-console) | One view for on-site IT operations, invite-only with MFA | ✅ Live |
 | 06 | Kubernetes Ingress Lab | Ingress, DNS and network policies with Cilium, Envoy Gateway and external-dns | 🛠️ Planned |
-| 07 | AWS Private Connectivity | PrivateLink, private DNS and security controls as code (Terraform) | 🛠️ Planned |
+| 07 | [AWS Private Connectivity](https://github.com/inigogonzalezgarcia/07-aws-private-connectivity) | PrivateLink, private DNS and security controls as code (Terraform) | ✅ Live |
 | 08 | [Edge Health & SLO Monitor](https://github.com/inigogonzalezgarcia/08-edge-health-slo-monitor) | DNS, TLS and HTTP probes with SLOs, burn-rate alerts and incident reviews | ✅ Live |
 
 ---
