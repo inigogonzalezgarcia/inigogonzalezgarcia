@@ -8,7 +8,7 @@ This GitHub is where I turn lessons from that work into small, practical tools.
 
 **Stack:** Python · pandas · Streamlit · PowerShell · Microsoft Graph · AWS · Microsoft 365 · ServiceNow
 
-**Learning in public:** cloud and Kubernetes networking (Ingress, DNS, private connectivity), Terraform, SRE practice (SLOs, error budgets, incident reviews) and day 2 operations for GPU clusters. Projects 06–12 are hands-on labs on these topics.
+**Learning in public:** cloud and Kubernetes networking (Ingress, DNS, private connectivity), Terraform, SRE practice (SLOs, error budgets, incident reviews) and day 2 operations for GPU clusters. Projects 06–13 are hands-on labs on these topics.
 
 ---
 
@@ -30,6 +30,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 10 | [GPU Fleet Observability](https://github.com/inigogonzalezgarcia/10-gpu-fleet-observability) | dcgm-exporter metrics, alerts with runbooks and promtool tests, Alertmanager routing, Grafana and a fleet report | ✅ Live |
 | 11 | [GPU Fleet Lifecycle](https://github.com/inigogonzalezgarcia/11-gpu-fleet-lifecycle) | Driver rollouts across a GPU fleet: canary, approval, batches, validation, soak and automatic rollback | ✅ Live |
 | 12 | [GPU Goodput and MTBI](https://github.com/inigogonzalezgarcia/12-gpu-goodput-mtbi) | Where a large training job's GPU-hours go: interruption simulator, goodput and MTBI, Young/Daly checkpoints, goodput SLO | ✅ Live |
+| 13 | [GPU Cluster Acceptance and Burn-in](https://github.com/inigogonzalezgarcia/13-cluster-acceptance-burnin) | Handover to sign-off: staged DCGM/NCCL validation, burn-in, agreed criteria, punch list and customer report | ✅ Live |
 
 ---
 
