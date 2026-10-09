@@ -8,7 +8,7 @@ This GitHub is where I turn lessons from that work into small, practical tools.
 
 **Stack:** Python · pandas · Streamlit · PowerShell · Microsoft Graph · AWS · Microsoft 365 · ServiceNow
 
-**Learning in public:** cloud and Kubernetes networking (Ingress, DNS, private connectivity), Terraform, SRE practice (SLOs, error budgets, incident reviews) and day 2 operations for GPU clusters. Projects 06–15 are hands-on labs on these topics.
+**Learning in public:** cloud and Kubernetes networking (Ingress, DNS, private connectivity), Terraform, SRE practice (SLOs, error budgets, incident reviews) and day 2 operations for GPU clusters. Projects 06–16 are hands-on labs on these topics.
 
 ---
 
@@ -33,6 +33,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 13 | [GPU Cluster Acceptance and Burn-in](https://github.com/inigogonzalezgarcia/13-cluster-acceptance-burnin) | Handover to sign-off: staged DCGM/NCCL validation, burn-in, agreed criteria, punch list and customer report | ✅ Live |
 | 14 | [Slurm GPU Operations](https://github.com/inigogonzalezgarcia/14-slurm-gpu-ops) | Slurm cluster in Docker Compose: XID health check that drains and requeues, validation in a maintenance reservation, goodput from sacct | ✅ Live |
 | 15 | [Multi-tenant GPU Scheduling](https://github.com/inigogonzalezgarcia/15-multi-tenant-gpu-scheduling) | One GPU agreement for three teams, enforced by Kueue and KAI Scheduler on kind with simulated GPUs: borrowing, reclaim, priorities, gang scheduling, GPU sharing; KubeVirt under software emulation | ✅ Live |
+| 16 | [GitOps GPU Fleet](https://github.com/inigogonzalezgarcia/16-gitops-gpu-fleet) | GPU Operator and Network Operator releases promoted with Flux across kind clusters (staging → prod H100 → prod A100): versions pinned per node pool, `helm template` + kubeconform in CI, approvals in Git, rollout plan for repo 11 generated from the same file | ✅ Live |
 
 ---
 
