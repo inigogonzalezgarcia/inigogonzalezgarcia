@@ -53,4 +53,4 @@ Each project starts from a real problem I have dealt with. All of them are built
 
 ### Customisation and contact
 
-Want one of these tools adapted to your environment? Email me at [inigogonzalezgarcia@yahoo.es](mailto:inigogonzalezgarcia@yahoo.es), reach out on [LinkedIn](https://www.linkedin.com/in/igonzalez93) or use the contact form on [my website](https://inigogonzalezgarcia.github.io/#contacto).
+Want one of these tools adapted to your environment? Use the contact form on [my website](https://inigogonzalezgarcia.github.io/about.html#contacto) or reach out on [LinkedIn](https://www.linkedin.com/in/igonzalez93).
