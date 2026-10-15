@@ -36,6 +36,8 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 14 | [Slurm GPU Operations](https://github.com/inigogonzalezgarcia/14-slurm-gpu-ops) | Slurm cluster in Docker Compose: XID health check that drains and requeues, validation in a maintenance reservation, goodput from sacct | ✅ Live |
 | 15 | [Multi-tenant GPU Scheduling](https://github.com/inigogonzalezgarcia/15-multi-tenant-gpu-scheduling) | One GPU agreement for three teams, enforced by Kueue and KAI Scheduler on kind with simulated GPUs: borrowing, reclaim, priorities, gang scheduling, GPU sharing; KubeVirt under software emulation | ✅ Live |
 | 16 | [GitOps GPU Fleet](https://github.com/inigogonzalezgarcia/16-gitops-gpu-fleet) | GPU Operator and Network Operator releases promoted with Flux across kind clusters (staging → prod H100 → prod A100): versions pinned per node pool, `helm template` + kubeconform in CI, approvals in Git, rollout plan for repo 11 generated from the same file | ✅ Live |
+| 17 | [Teams Rooms Fleet Health](https://github.com/inigogonzalezgarcia/17-teams-rooms-fleet-health) | Which meeting rooms will fail today: Teams Rooms health from Microsoft Graph, room register and bookings turned into an ordered morning check, firmware drift and a daily trend | ✅ Live |
+| 18 | [MECM + Intune Co-management Tracker](https://github.com/inigogonzalezgarcia/18-mecm-intune-comanagement-tracker) | Real co-management state, workload authority against the plan, Windows 11 waves and go/no-go gates for the next slider move | ✅ Live |
 
 ---
 
