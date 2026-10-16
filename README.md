@@ -38,6 +38,8 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 16 | [GitOps GPU Fleet](https://github.com/inigogonzalezgarcia/16-gitops-gpu-fleet) | GPU Operator and Network Operator releases promoted with Flux across kind clusters (staging → prod H100 → prod A100): versions pinned per node pool, `helm template` + kubeconform in CI, approvals in Git, rollout plan for repo 11 generated from the same file | ✅ Live |
 | 17 | [Teams Rooms Fleet Health](https://github.com/inigogonzalezgarcia/17-teams-rooms-fleet-health) | Which meeting rooms will fail today: Teams Rooms health from Microsoft Graph, room register and bookings turned into an ordered morning check, firmware drift and a daily trend | ✅ Live |
 | 18 | [MECM + Intune Co-management Tracker](https://github.com/inigogonzalezgarcia/18-mecm-intune-comanagement-tracker) | Real co-management state, workload authority against the plan, Windows 11 waves and go/no-go gates for the next slider move | ✅ Live |
+| 19 | [AD Infrastructure Health Check](https://github.com/inigogonzalezgarcia/19-ad-infra-health-check) | Weekly Active Directory check from one read-only export: DC services, clock and disk, replication links and tombstone risk, DHCP scopes, GPO hygiene, privileged groups and krbtgt age, compared with last week | ✅ Live |
+| 20 | [Entra SSO App Audit](https://github.com/inigogonzalezgarcia/20-entra-sso-app-audit) | Monthly review of enterprise apps and app registrations: SAML certificates and secrets about to expire, owners, assignment and MFA coverage, risky permissions and consents, SCIM provisioning, with a renewal calendar | ✅ Live |
 
 ---
 
