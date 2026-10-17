@@ -10,7 +10,7 @@ This GitHub is where I turn lessons from that work into small, practical tools.
 
 **Stack:** Python · pandas · Streamlit · PowerShell · Microsoft Graph · AWS · Microsoft 365 · ServiceNow
 
-**Learning in public:** cloud and Kubernetes networking (Ingress, DNS, private connectivity), Terraform, SRE practice (SLOs, error budgets, incident reviews) and day 2 operations for GPU clusters. Projects 06–16 are hands-on labs on these topics.
+**Labs:** cloud and Kubernetes networking (Ingress, DNS, private connectivity), Terraform, SRE practice (SLOs, error budgets, incident reviews) and day 2 operations for GPU clusters. Projects 06–16 are hands-on labs that take my infrastructure and operations experience into these areas.
 
 ---
 
@@ -41,7 +41,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 19 | [AD Infrastructure Health Check](https://github.com/inigogonzalezgarcia/19-ad-infra-health-check) | Weekly Active Directory check from one read-only export: DC services, clock and disk, replication links and tombstone risk, DHCP scopes, GPO hygiene, privileged groups and krbtgt age, compared with last week | ✅ Live |
 | 20 | [Entra SSO App Audit](https://github.com/inigogonzalezgarcia/20-entra-sso-app-audit) | Monthly review of enterprise apps and app registrations: SAML certificates and secrets about to expire, owners, assignment and MFA coverage, risky permissions and consents, SCIM provisioning, with a renewal calendar | ✅ Live |
 | 21 | [Apple Fleet Audit](https://github.com/inigogonzalezgarcia/21-apple-fleet-audit) | Weekly review of a Jamf Pro Apple fleet: APNs, ADE and Apps and Books tokens, OS currency, FileVault, SIP and bootstrap token, passcodes, stale check-ins, storage and warranty, VIP devices first | ✅ Live |
-| 22 | [DEX Experience Score](https://github.com/inigogonzalezgarcia/22-dex-experience-score) | Learning lab: endpoint telemetry (boot, crashes, Wi-Fi, Teams calls, VPN, battery) turned into a 0-10 experience score per device, site and department, with a weekly trend and the top fixes | ✅ Live |
+| 22 | [DEX Experience Score](https://github.com/inigogonzalezgarcia/22-dex-experience-score) | Lab: endpoint telemetry (boot, crashes, Wi-Fi, Teams calls, VPN, battery) turned into a 0-10 experience score per device, site and department, with a weekly trend and the top fixes | ✅ Live |
 
 ---
 
