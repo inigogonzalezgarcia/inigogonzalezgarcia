@@ -40,6 +40,8 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 18 | [MECM + Intune Co-management Tracker](https://github.com/inigogonzalezgarcia/18-mecm-intune-comanagement-tracker) | Real co-management state, workload authority against the plan, Windows 11 waves and go/no-go gates for the next slider move | ✅ Live |
 | 19 | [AD Infrastructure Health Check](https://github.com/inigogonzalezgarcia/19-ad-infra-health-check) | Weekly Active Directory check from one read-only export: DC services, clock and disk, replication links and tombstone risk, DHCP scopes, GPO hygiene, privileged groups and krbtgt age, compared with last week | ✅ Live |
 | 20 | [Entra SSO App Audit](https://github.com/inigogonzalezgarcia/20-entra-sso-app-audit) | Monthly review of enterprise apps and app registrations: SAML certificates and secrets about to expire, owners, assignment and MFA coverage, risky permissions and consents, SCIM provisioning, with a renewal calendar | ✅ Live |
+| 21 | [Apple Fleet Audit](https://github.com/inigogonzalezgarcia/21-apple-fleet-audit) | Weekly review of a Jamf Pro Apple fleet: APNs, ADE and Apps and Books tokens, OS currency, FileVault, SIP and bootstrap token, passcodes, stale check-ins, storage and warranty, VIP devices first | ✅ Live |
+| 22 | [DEX Experience Score](https://github.com/inigogonzalezgarcia/22-dex-experience-score) | Learning lab: endpoint telemetry (boot, crashes, Wi-Fi, Teams calls, VPN, battery) turned into a 0-10 experience score per device, site and department, with a weekly trend and the top fixes | ✅ Live |
 
 ---
 
