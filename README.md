@@ -42,6 +42,8 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 20 | [Entra SSO App Audit](https://github.com/inigogonzalezgarcia/20-entra-sso-app-audit) | Monthly review of enterprise apps and app registrations: SAML certificates and secrets about to expire, owners, assignment and MFA coverage, risky permissions and consents, SCIM provisioning, with a renewal calendar | ✅ Live |
 | 21 | [Apple Fleet Audit](https://github.com/inigogonzalezgarcia/21-apple-fleet-audit) | Weekly review of a Jamf Pro Apple fleet: APNs, ADE and Apps and Books tokens, OS currency, FileVault, SIP and bootstrap token, passcodes, stale check-ins, storage and warranty, VIP devices first | ✅ Live |
 | 22 | [DEX Experience Score](https://github.com/inigogonzalezgarcia/22-dex-experience-score) | Lab: endpoint telemetry (boot, crashes, Wi-Fi, Teams calls, VPN, battery) turned into a 0-10 experience score per device, site and department, with a weekly trend and the top fixes | ✅ Live |
+| 23 | [IT Vendor Contract Tracker](https://github.com/inigogonzalezgarcia/23-it-vendor-contract-tracker) | Monthly review of the contract register: notice deadlines and contracts that renew by themselves, unused and over-deployed licences, budget forecast, missed SLAs and service credits, single-supplier risk, with a renewal calendar to import | ✅ Live |
+| 24 | [Hospitality IT Pre-opening](https://github.com/inigogonzalezgarcia/24-hospitality-it-preopening) | Will IT be ready before the hotel opens: task network with vendor lead times, critical path, gates from T-90 to T-1, blocked and start-now work, risks and a go-live checklist | ✅ Live |
 
 ---
 
