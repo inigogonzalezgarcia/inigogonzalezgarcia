@@ -44,6 +44,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 22 | [DEX Experience Score](https://github.com/inigogonzalezgarcia/22-dex-experience-score) | Lab: endpoint telemetry (boot, crashes, Wi-Fi, Teams calls, VPN, battery) turned into a 0-10 experience score per device, site and department, with a weekly trend and the top fixes | ✅ Live |
 | 23 | [IT Vendor Contract Tracker](https://github.com/inigogonzalezgarcia/23-it-vendor-contract-tracker) | Monthly review of the contract register: notice deadlines and contracts that renew by themselves, unused and over-deployed licences, budget forecast, missed SLAs and service credits, single-supplier risk, with a renewal calendar to import | ✅ Live |
 | 24 | [Hospitality IT Pre-opening](https://github.com/inigogonzalezgarcia/24-hospitality-it-preopening) | Will IT be ready before the hotel opens: task network with vendor lead times, critical path, gates from T-90 to T-1, blocked and start-now work, risks and a go-live checklist | ✅ Live |
+| 25 | [Security Controls Evidence](https://github.com/inigogonzalezgarcia/25-security-controls-evidence) | One control register mapped to ISO 27001, NIS2 and GDPR: missing, late or failing evidence, controls claimed without proof, expired exceptions, readiness per framework, an audit pack and an evidence calendar | ✅ Live |
 
 ---
 
