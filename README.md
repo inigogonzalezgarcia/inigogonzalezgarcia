@@ -45,6 +45,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 23 | [IT Vendor Contract Tracker](https://github.com/inigogonzalezgarcia/23-it-vendor-contract-tracker) | Monthly review of the contract register: notice deadlines and contracts that renew by themselves, unused and over-deployed licences, budget forecast, missed SLAs and service credits, single-supplier risk, with a renewal calendar to import | ✅ Live |
 | 24 | [Hospitality IT Pre-opening](https://github.com/inigogonzalezgarcia/24-hospitality-it-preopening) | Will IT be ready before the hotel opens: task network with vendor lead times, critical path, gates from T-90 to T-1, blocked and start-now work, risks and a go-live checklist | ✅ Live |
 | 25 | [Security Controls Evidence](https://github.com/inigogonzalezgarcia/25-security-controls-evidence) | One control register mapped to ISO 27001, NIS2 and GDPR: missing, late or failing evidence, controls claimed without proof, expired exceptions, readiness per framework, an audit pack and an evidence calendar | ✅ Live |
+| 26 | [OT Segmentation Lab](https://github.com/inigogonzalezgarcia/26-ot-segmentation-lab) | A plant network checked against the Purdue model and IEC 62443 zones and conduits: paths that bypass the DMZ, controller protocols from IT, remote access that skips the jump host, the safety system reachable from control, and a tighter rule set from observed traffic | ✅ Live |
 
 ---
 
