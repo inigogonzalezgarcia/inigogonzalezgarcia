@@ -46,6 +46,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 24 | [Hospitality IT Pre-opening](https://github.com/inigogonzalezgarcia/24-hospitality-it-preopening) | Will IT be ready before the hotel opens: task network with vendor lead times, critical path, gates from T-90 to T-1, blocked and start-now work, risks and a go-live checklist | ✅ Live |
 | 25 | [Security Controls Evidence](https://github.com/inigogonzalezgarcia/25-security-controls-evidence) | One control register mapped to ISO 27001, NIS2 and GDPR: missing, late or failing evidence, controls claimed without proof, expired exceptions, readiness per framework, an audit pack and an evidence calendar | ✅ Live |
 | 26 | [OT Segmentation Lab](https://github.com/inigogonzalezgarcia/26-ot-segmentation-lab) | A plant network checked against the Purdue model and IEC 62443 zones and conduits: paths that bypass the DMZ, controller protocols from IT, remote access that skips the jump host, the safety system reachable from control, and a tighter rule set from observed traffic | ✅ Live |
+| 27 | [M365 Tenant Governance Review](https://github.com/inigogonzalezgarcia/27-m365-tenant-governance-review) | A monthly review of a Microsoft 365 tenant: standing admin roles and PIM, emergency accounts, Conditional Access basics, settings drift, licences to reclaim, and admin changes matched to change tickets, including the provider's | ✅ Live |
 
 ---
 
