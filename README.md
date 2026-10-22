@@ -47,6 +47,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 25 | [Security Controls Evidence](https://github.com/inigogonzalezgarcia/25-security-controls-evidence) | One control register mapped to ISO 27001, NIS2 and GDPR: missing, late or failing evidence, controls claimed without proof, expired exceptions, readiness per framework, an audit pack and an evidence calendar | ✅ Live |
 | 26 | [OT Segmentation Lab](https://github.com/inigogonzalezgarcia/26-ot-segmentation-lab) | A plant network checked against the Purdue model and IEC 62443 zones and conduits: paths that bypass the DMZ, controller protocols from IT, remote access that skips the jump host, the safety system reachable from control, and a tighter rule set from observed traffic | ✅ Live |
 | 27 | [M365 Tenant Governance Review](https://github.com/inigogonzalezgarcia/27-m365-tenant-governance-review) | A monthly review of a Microsoft 365 tenant: standing admin roles and PIM, emergency accounts, Conditional Access basics, settings drift, licences to reclaim, and admin changes matched to change tickets, including the provider's | ✅ Live |
+| 28 | [EUC Provider Service Review](https://github.com/inigogonzalezgarcia/28-euc-provider-service-review) | Monthly service review of a provider-run end-user computing service from a ticket export: SLA scorecard with the breach list, backlog and ageing, escalations and the OLAs the internal teams owe, out-of-hours coverage, quality signals a compliance figure hides, and the service credits due | ✅ Live |
 
 ---
 
