@@ -58,6 +58,12 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 36 | [Major Incident Command Kit](https://github.com/inigogonzalezgarcia/36-major-incident-command-kit) | Running and reviewing P1/P2 incidents: detection gaps and monitoring blind spots, MTTA and MTTR against target, stakeholder update gaps, changes in the 72 hours before, overdue actions and repeats, with a timeline and a draft post-incident review per incident | ✅ Live |
 | 37 | [IAM Access Review](https://github.com/inigogonzalezgarcia/37-iam-access-review) | Monthly identity and access review: leavers still enabled, movers keeping old access, orphan accounts, standing admin roles outside PIM, vault rotation, service and guest accounts, and recertification results, with an auditor-ready pack | ✅ Live |
 
+### Practice
+
+| Project | What it is | Status |
+|---|---|---|
+| [SysAdmin Desks](https://sysadmindesksbyigg.pages.dev) · [repo](https://github.com/inigogonzalezgarcia/sysadmindesksbyigg) · [story](https://inigogonzalezgarcia.github.io/blog/sysadmindesksbyigg.html) | Free IT support simulator (EN/ES): 18 first- and second-line tickets with SLA, a console, a simulated Active Directory and desktop, a tempting fix that does not close the ticket, and a work note that gets marked | ✅ Live (v0.5) |
+
 ---
 
 ### Where the ideas come from
