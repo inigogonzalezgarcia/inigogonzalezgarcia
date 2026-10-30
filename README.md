@@ -63,7 +63,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 
 | Project | What it is | Status |
 |---|---|---|
-| [SysAdmin Desks](https://sysadmindesksbyigg.pages.dev) · [repo](https://github.com/inigogonzalezgarcia/sysadmindesksbyigg) · [story](https://inigogonzalezgarcia.github.io/blog/sysadmindesksbyigg.html) | Free IT support simulator (EN/ES): 18 first- and second-line tickets with SLA, a console, a simulated Active Directory and desktop, a tempting fix that does not close the ticket, and a work note that gets marked | ✅ Live (v0.5) |
+| [SysAdmin Desks](https://sysadmindesksbyigg.pages.dev) · [repo](https://github.com/inigogonzalezgarcia/sysadmindesksbyigg) · [story](https://inigogonzalezgarcia.github.io/blog/sysadmindesksbyigg.html) | Free IT support simulator (EN/ES): 24 first- and second-line tickets with SLA, a console, a simulated Active Directory and desktop, a network room with Cisco, Aruba and FortiGate CLIs, shipments and RMA, labs, a library and a career profile; a tempting fix that does not close the ticket, and a work note that gets marked | ✅ Live (v0.8) |
 
 ---
 
