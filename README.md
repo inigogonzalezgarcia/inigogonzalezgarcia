@@ -69,6 +69,7 @@ Each project starts from a real problem I have dealt with. All of them are built
 | Project | What it is | Status |
 |---|---|---|
 | [SysAdmin Desks](https://sysadmindesksbyigg.pages.dev) · [repo](https://github.com/inigogonzalezgarcia/sysadmindesksbyigg) · [story](https://inigogonzalezgarcia.github.io/blog/sysadmindesksbyigg.html) | Free IT support simulator (EN/ES): 24 first- and second-line tickets with SLA, a console, a simulated Active Directory and desktop, a network room with Cisco, Aruba and FortiGate CLIs, shipments and RMA, labs, a library and a career profile; a tempting fix that does not close the ticket, and a work note that gets marked | ✅ Live (v0.8) |
+| [FX Research Lab](https://fx-trading-lab.pages.dev) · [repo](https://github.com/inigogonzalezgarcia/9999-trading-lab) · [kit](https://fxresearchlab.gumroad.com/l/kit-backtest) | Educational simulator for testing a trading idea with method (ES/EN): a frozen intraday hypothesis on EUR/USD and GBP/USD, a causal backtesting engine with costs, and a research protocol (independent periods, walk-forward, Monte Carlo, sensitivity, random benchmark) on three years of real data, with every trade explained on its chart and free lessons. The headline result: the rule that made +2.35R in 2024 lost −8.01R in 2022. No signals, no live execution, not investment advice | ✅ Live (v0.5) |
 
 ---
 
