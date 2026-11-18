@@ -30,30 +30,40 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 ### 🗺️ Roadmap to the end of 2026
 
-One new tool every weekend, each with its own post on [the blog](https://inigogonzalezgarcia.github.io/blog/).
+Every repo sits on the date of its post on [the blog](https://inigogonzalezgarcia.github.io/blog/): 52 repos between 1 October and 18 November, then 58 on Sunday 29 November and one every Saturday and Sunday from 5 to 20 December.
 
-```mermaid
-%%{init: {"gantt": {"useWidth": 560, "barHeight": 26, "barGap": 6, "fontSize": 13, "sectionFontSize": 13, "leftPadding": 70, "topPadding": 40, "gridLineStartPadding": 30}}}%%
-gantt
-    dateFormat YYYY-MM-DD
-    axisFormat %d %b
-    tickInterval 2week
-    section October
-    06–15 Cloud and GPU labs                :done, 2026-10-01, 7d
-    16 GitOps GPU fleet                     :done, 2026-10-08, 7d
-    17–27 Workplace and security            :done, 2026-10-15, 7d
-    28–36 Service and resilience            :done, 2026-10-22, 7d
-    37–43 Access, assets, patching, cost    :done, 2026-10-29, 7d
-    section November
-    44–50 Copilot, network, ITSM            :done, 2026-11-05, 7d
-    51–57 Servers, endpoints, CMDB, AI      :done, 2026-11-12, 7d
-    58 Business impact analysis             :active, 2026-11-26, 7d
-    section December
-    59–60 Market data and FIX               :2026-12-03, 7d
-    61–62 Change freeze, Conditional Access :2026-12-10, 7d
-    63–64 Sentinel, Linux AD                :2026-12-17, 7d
-    End of year                             :milestone, 2026-12-31, 0d
-```
+**October 2026** · 34 published
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   |   |   | **1**<br>[06](https://inigogonzalezgarcia.github.io/blog/06-kubernetes-ingress-lab.html "06-kubernetes-ingress-lab") [07](https://inigogonzalezgarcia.github.io/blog/07-aws-private-connectivity.html "07-aws-private-connectivity") [08](https://inigogonzalezgarcia.github.io/blog/08-edge-health-slo-monitor.html "08-edge-health-slo-monitor") [09](https://inigogonzalezgarcia.github.io/blog/09-gpu-node-remediation.html "09-gpu-node-remediation") [10](https://inigogonzalezgarcia.github.io/blog/10-gpu-fleet-observability.html "10-gpu-fleet-observability") | **2**<br>[11](https://inigogonzalezgarcia.github.io/blog/11-gpu-fleet-lifecycle.html "11-gpu-fleet-lifecycle") [12](https://inigogonzalezgarcia.github.io/blog/12-gpu-goodput-mtbi.html "12-gpu-goodput-mtbi") | **3** | **4**<br>[13](https://inigogonzalezgarcia.github.io/blog/13-cluster-acceptance-burnin.html "13-cluster-acceptance-burnin") [14](https://inigogonzalezgarcia.github.io/blog/14-slurm-gpu-ops.html "14-slurm-gpu-ops") |
+| **5**<br>[15](https://inigogonzalezgarcia.github.io/blog/15-multi-tenant-gpu-scheduling.html "15-multi-tenant-gpu-scheduling") | **6** | **7** | **8** | **9**<br>[16](https://inigogonzalezgarcia.github.io/blog/16-gitops-gpu-fleet.html "16-gitops-gpu-fleet") | **10** | **11** |
+| **12** | **13** | **14** | **15**<br>[17](https://inigogonzalezgarcia.github.io/blog/17-teams-rooms-fleet-health.html "17-teams-rooms-fleet-health") [18](https://inigogonzalezgarcia.github.io/blog/18-mecm-intune-comanagement-tracker.html "18-mecm-intune-comanagement-tracker") | **16**<br>[19](https://inigogonzalezgarcia.github.io/blog/19-ad-infra-health-check.html "19-ad-infra-health-check") [20](https://inigogonzalezgarcia.github.io/blog/20-entra-sso-app-audit.html "20-entra-sso-app-audit") | **17**<br>[21](https://inigogonzalezgarcia.github.io/blog/21-apple-fleet-audit.html "21-apple-fleet-audit") [22](https://inigogonzalezgarcia.github.io/blog/22-dex-experience-score.html "22-dex-experience-score") | **18**<br>[23](https://inigogonzalezgarcia.github.io/blog/23-it-vendor-contract-tracker.html "23-it-vendor-contract-tracker") [24](https://inigogonzalezgarcia.github.io/blog/24-hospitality-it-preopening.html "24-hospitality-it-preopening") |
+| **19**<br>[25](https://inigogonzalezgarcia.github.io/blog/25-security-controls-evidence.html "25-security-controls-evidence") | **20**<br>[26](https://inigogonzalezgarcia.github.io/blog/26-ot-segmentation-lab.html "26-ot-segmentation-lab") | **21**<br>[27](https://inigogonzalezgarcia.github.io/blog/27-m365-tenant-governance-review.html "27-m365-tenant-governance-review") | **22**<br>[28](https://inigogonzalezgarcia.github.io/blog/28-euc-provider-service-review.html "28-euc-provider-service-review") | **23**<br>[29](https://inigogonzalezgarcia.github.io/blog/29-tenant-separation-cutover-planner.html "29-tenant-separation-cutover-planner") | **24**<br>[30](https://inigogonzalezgarcia.github.io/blog/30-jira-confluence-admin-kit.html "30-jira-confluence-admin-kit") | **25**<br>[31](https://inigogonzalezgarcia.github.io/blog/31-dealer-systems-health.html "31-dealer-systems-health") [32](https://inigogonzalezgarcia.github.io/blog/32-backup-restore-test-tracker.html "32-backup-restore-test-tracker") [33](https://inigogonzalezgarcia.github.io/blog/33-executive-meeting-readiness.html "33-executive-meeting-readiness") |
+| **26**<br>[34](https://inigogonzalezgarcia.github.io/blog/34-venue-service-readiness.html "34-venue-service-readiness") | **27**<br>[35](https://inigogonzalezgarcia.github.io/blog/35-private-cloud-capacity-review.html "35-private-cloud-capacity-review") | **28**<br>[36](https://inigogonzalezgarcia.github.io/blog/36-major-incident-command-kit.html "36-major-incident-command-kit") | **29**<br>[37](https://inigogonzalezgarcia.github.io/blog/37-iam-access-review.html "37-iam-access-review") | **30**<br>[38](https://inigogonzalezgarcia.github.io/blog/38-it-asset-lifecycle-planner.html "38-it-asset-lifecycle-planner") | **31**<br>[39](https://inigogonzalezgarcia.github.io/blog/39-vulnerability-remediation-sla.html "39-vulnerability-remediation-sla") |   |
+
+**November 2026** · 18 published · 1 planned
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   |   |   |   |   |   | **1** |
+| **2**<br>[40](https://inigogonzalezgarcia.github.io/blog/40-change-calendar-risk-review.html "40-change-calendar-risk-review") [41](https://inigogonzalezgarcia.github.io/blog/41-windows-update-ring-tracker.html "41-windows-update-ring-tracker") | **3**<br>[42](https://inigogonzalezgarcia.github.io/blog/42-retail-store-it-health.html "42-retail-store-it-health") | **4**<br>[43](https://inigogonzalezgarcia.github.io/blog/43-azure-cost-rightsizing.html "43-azure-cost-rightsizing") | **5**<br>[44](https://inigogonzalezgarcia.github.io/blog/44-m365-copilot-readiness.html "44-m365-copilot-readiness") | **6**<br>[45](https://inigogonzalezgarcia.github.io/blog/45-network-config-compliance.html "45-network-config-compliance") | **7** | **8**<br>[46](https://inigogonzalezgarcia.github.io/blog/46-problem-management-review.html "46-problem-management-review") [47](https://inigogonzalezgarcia.github.io/blog/47-multi-site-it-scorecard.html "47-multi-site-it-scorecard") |
+| **9**<br>[48](https://inigogonzalezgarcia.github.io/blog/48-new-starter-day-one-readiness.html "48-new-starter-day-one-readiness") | **10**<br>[49](https://inigogonzalezgarcia.github.io/blog/49-it-project-portfolio-health.html "49-it-project-portfolio-health") | **11**<br>[50](https://inigogonzalezgarcia.github.io/blog/50-saas-licence-spend-review.html "50-saas-licence-spend-review") | **12**<br>[51](https://inigogonzalezgarcia.github.io/blog/51-windows-server-baseline-drift.html "51-windows-server-baseline-drift") | **13**<br>[52](https://inigogonzalezgarcia.github.io/blog/52-endpoint-security-coverage.html "52-endpoint-security-coverage") | **14**<br>[53](https://inigogonzalezgarcia.github.io/blog/53-dns-dhcp-ipam-review.html "53-dns-dhcp-ipam-review") | **15**<br>[54](https://inigogonzalezgarcia.github.io/blog/54-it-business-case-builder.html "54-it-business-case-builder") |
+| **16**<br>[55](https://inigogonzalezgarcia.github.io/blog/55-printer-fleet-health.html "55-printer-fleet-health") | **17**<br>[56](https://inigogonzalezgarcia.github.io/blog/56-cmdb-data-quality-review.html "56-cmdb-data-quality-review") | **18**<br>[57](https://inigogonzalezgarcia.github.io/blog/57-ai-use-case-register.html "57-ai-use-case-register") | **19** | **20** | **21** | **22** |
+| **23** | **24** | **25** | **26** | **27** | **28** | **29**<br>🗓️&nbsp;58 |
+| **30** |   |   |   |   |   |   |
+
+**December 2026** · 0 published · 6 planned
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   | **1** | **2** | **3** | **4** | **5**<br>🗓️&nbsp;59 | **6**<br>🗓️&nbsp;60 |
+| **7** | **8** | **9** | **10** | **11** | **12**<br>🗓️&nbsp;61 | **13**<br>🗓️&nbsp;62 |
+| **14** | **15** | **16** | **17** | **18** | **19**<br>🗓️&nbsp;63 | **20**<br>🗓️&nbsp;64 |
+| **21** | **22** | **23** | **24** | **25** | **26** | **27** |
+| **28** | **29** | **30** | **31** |   |   |   |
+
+<sub>Click a number to read its post. 🗓️ marks the ones still to come.</sub>
 
 <p align="center">
 <img src="https://img.shields.io/badge/October-34_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="October: 34 tools built">
