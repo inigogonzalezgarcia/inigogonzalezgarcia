@@ -32,11 +32,16 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 One new tool every weekend, each with its own post on [the blog](https://inigogonzalezgarcia.github.io/blog/).
 
-<p align="center"><b>▰▰▱▱▱▱▱▱▱</b>&nbsp; 2 of 9 built</p>
+<p align="center"><b>1 Oct</b>&nbsp;&nbsp;<code>▰▰▰▰▰▰▰▱▱▱▱▱▱</code>&nbsp;&nbsp;<b>31 Dec</b><br>
+<sub>Week 7 of 13 · <b>52 of 59</b> tools built since 1 October</sub></p>
 
 <p align="center">
-<a href="https://github.com/inigogonzalezgarcia/56-cmdb-data-quality-review"><img src="https://img.shields.io/badge/56-CMDB_Data_Quality_Review_%E2%9C%93-2ea44f?style=flat-square" alt="56 CMDB Data Quality Review"></a><br>
-<a href="https://github.com/inigogonzalezgarcia/57-ai-use-case-register"><img src="https://img.shields.io/badge/57-AI_Use_Case_Register_Review_%E2%9C%93-2ea44f?style=flat-square" alt="57 AI Use Case Register Review"></a><br>
+<img src="https://img.shields.io/badge/October-34_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="October: 34 tools built">
+<img src="https://img.shields.io/badge/November-18_built_%C2%B7_1_to_go-e36209?style=for-the-badge" alt="November: 18 built, 1 to go">
+<img src="https://img.shields.io/badge/December-6_planned-8b949e?style=for-the-badge" alt="December: 6 planned">
+</p>
+
+<p align="center"><b>Coming next</b><br>
 <img src="https://img.shields.io/badge/58-Business_Impact_Analysis_%C2%B7_29_Nov-e36209?style=flat-square" alt="58 Business Impact Analysis"><br>
 <img src="https://img.shields.io/badge/59-Market_Data_Entitlement_Review_%C2%B7_5_Dec-8b949e?style=flat-square" alt="59 Market Data Entitlement Review"><br>
 <img src="https://img.shields.io/badge/60-FIX_Session_Health_%C2%B7_6_Dec-8b949e?style=flat-square" alt="60 FIX Session Health"><br>
