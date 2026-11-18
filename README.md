@@ -32,23 +32,33 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 One new tool every weekend, each with its own post on [the blog](https://inigogonzalezgarcia.github.io/blog/).
 
-<p align="center"><b>1 Oct</b>&nbsp;&nbsp;<code>▰▰▰▰▰▰▰▱▱▱▱▱▱</code>&nbsp;&nbsp;<b>31 Dec</b><br>
-<sub>Week 7 of 13 · <b>52 of 59</b> tools built since 1 October</sub></p>
+```mermaid
+%%{init: {"gantt": {"useWidth": 560, "barHeight": 26, "barGap": 6, "fontSize": 13, "sectionFontSize": 13, "leftPadding": 70, "topPadding": 40, "gridLineStartPadding": 30}}}%%
+gantt
+    dateFormat YYYY-MM-DD
+    axisFormat %d %b
+    tickInterval 2week
+    section October
+    06–15 Cloud and GPU labs                :done, 2026-10-01, 7d
+    16 GitOps GPU fleet                     :done, 2026-10-08, 7d
+    17–27 Workplace and security            :done, 2026-10-15, 7d
+    28–36 Service and resilience            :done, 2026-10-22, 7d
+    37–43 Access, assets, patching, cost    :done, 2026-10-29, 7d
+    section November
+    44–50 Copilot, network, ITSM            :done, 2026-11-05, 7d
+    51–57 Servers, endpoints, CMDB, AI      :done, 2026-11-12, 7d
+    58 Business impact analysis             :active, 2026-11-26, 7d
+    section December
+    59–60 Market data and FIX               :2026-12-03, 7d
+    61–62 Change freeze, Conditional Access :2026-12-10, 7d
+    63–64 Sentinel, Linux AD                :2026-12-17, 7d
+    End of year                             :milestone, 2026-12-31, 0d
+```
 
 <p align="center">
 <img src="https://img.shields.io/badge/October-34_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="October: 34 tools built">
 <img src="https://img.shields.io/badge/November-18_built_%C2%B7_1_to_go-e36209?style=for-the-badge" alt="November: 18 built, 1 to go">
 <img src="https://img.shields.io/badge/December-6_planned-8b949e?style=for-the-badge" alt="December: 6 planned">
-</p>
-
-<p align="center"><b>Coming next</b><br>
-<img src="https://img.shields.io/badge/58-Business_Impact_Analysis_%C2%B7_29_Nov-e36209?style=flat-square" alt="58 Business Impact Analysis"><br>
-<img src="https://img.shields.io/badge/59-Market_Data_Entitlement_Review_%C2%B7_5_Dec-8b949e?style=flat-square" alt="59 Market Data Entitlement Review"><br>
-<img src="https://img.shields.io/badge/60-FIX_Session_Health_%C2%B7_6_Dec-8b949e?style=flat-square" alt="60 FIX Session Health"><br>
-<img src="https://img.shields.io/badge/61-Change_Freeze_%26_On--call_Planner_%C2%B7_12_Dec-8b949e?style=flat-square" alt="61 Change Freeze & On-call Planner"><br>
-<img src="https://img.shields.io/badge/62-Conditional_Access_Policy_Review_%C2%B7_13_Dec-8b949e?style=flat-square" alt="62 Conditional Access Policy Review"><br>
-<img src="https://img.shields.io/badge/63-Sentinel_Detection_Coverage_%C2%B7_19_Dec-8b949e?style=flat-square" alt="63 Sentinel Detection Coverage"><br>
-<img src="https://img.shields.io/badge/64-Linux_AD_Integration_Health_%C2%B7_20_Dec-8b949e?style=flat-square" alt="64 Linux AD Integration Health"><br>
 </p>
 
 | # | Coming | The question it answers | When |
