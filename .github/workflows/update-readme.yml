@@ -1,6 +1,6 @@
 name: Update README
 
-# Puts every new blog post on the roadmap calendar, moves the 📍 to today and refreshes the counts.
+# Puts every new blog post on the roadmap chart and its interactive page, moves the red line to today and refreshes the counts.
 on:
   schedule:
     - cron: "5 */3 * * *"      # every three hours, and just after midnight in Madrid
@@ -27,8 +27,9 @@ jobs:
       - run: python scripts/update_readme.py
       - name: Commit if anything changed
         run: |
-          if git diff --quiet README.md; then echo "README already current"; exit 0; fi
+          git add README.md assets/roadmap.svg docs/index.html
+          if git diff --cached --quiet; then echo "Everything already current"; exit 0; fi
           git config user.name "Iñigo"
           git config user.email "inigogonzalezgarcia@yahoo.es"
-          git commit -am "Profile: roadmap calendar update"
+          git commit -m "Profile: roadmap update"
           git push

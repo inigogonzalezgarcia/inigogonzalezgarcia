@@ -9,43 +9,88 @@
       "n": "58",
       "name": "Business Impact Analysis",
       "question": "Which services the business cannot live without, their RTO and RPO, what they depend on, and whether backups and DR tests really meet them (ISO 22301)",
-      "date": "2026-11-29"
+      "date": "2026-11-29",
+      "area": "Infrastructure"
     },
     {
       "n": "59",
       "name": "Market Data Entitlement Review",
       "question": "Who can see which market data on LSEG and Bloomberg platforms, entitlements nobody uses, leavers still entitled and what to switch off before the next invoice",
-      "date": "2026-12-05"
+      "date": "2026-12-05",
+      "area": "Sector tools"
     },
     {
       "n": "60",
       "name": "FIX Session Health",
       "question": "Electronic trading connectivity per counterparty: session drops, sequence gaps, missed heartbeats, latency and the sessions to look at before the market opens",
-      "date": "2026-12-06"
+      "date": "2026-12-06",
+      "area": "Sector tools"
     },
     {
       "n": "61",
       "name": "Change Freeze & On-call Planner",
       "question": "The Christmas freeze: changes that must land before it, exceptions inside it, and an on-call rota with no gaps, no single points of knowledge and the escalation path for each service",
-      "date": "2026-12-12"
+      "date": "2026-12-12",
+      "area": "ITSM & service"
     },
     {
       "n": "62",
       "name": "Conditional Access Policy Review",
       "question": "Entra ID Conditional Access policy by policy: users and apps that fall through the gaps, exclusions with no owner or end date, report-only policies forgotten in report-only",
-      "date": "2026-12-13"
+      "date": "2026-12-13",
+      "area": "Identity & security"
     },
     {
       "n": "63",
       "name": "Sentinel Detection Coverage",
       "question": "Which attacks Microsoft Sentinel would actually see: data connectors that went quiet, analytic rules that never fire or never close, and coverage per technique",
-      "date": "2026-12-19"
+      "date": "2026-12-19",
+      "area": "Identity & security"
     },
     {
       "n": "64",
       "name": "Linux AD Integration Health",
       "question": "Linux servers and desktops joined to Active Directory: machines that lost the trust, Kerberos and time drift, sudo rights from AD groups, and hosts no one manages",
-      "date": "2026-12-20"
+      "date": "2026-12-20",
+      "area": "Identity & security"
     }
-  ]
+  ],
+  "areas": [
+    {
+      "match": "💻 Modern Workplace and endpoints",
+      "label": "Modern Workplace",
+      "color": "#0969da"
+    },
+    {
+      "match": "🔐 Identity, security, compliance and AI governance",
+      "label": "Identity & security",
+      "color": "#8250df"
+    },
+    {
+      "match": "🛠️ ITSM and service delivery",
+      "label": "ITSM & service",
+      "color": "#bf3989"
+    },
+    {
+      "match": "🏗️ Infrastructure and resilience",
+      "label": "Infrastructure",
+      "color": "#1a7f37"
+    },
+    {
+      "match": "💶 Cost, contracts and value",
+      "label": "Cost & value",
+      "color": "#9a6700"
+    },
+    {
+      "match": "🏬 Sector tools",
+      "label": "Sector tools",
+      "color": "#bc4c00"
+    },
+    {
+      "match": "☁️ Cloud, Kubernetes and GPU labs",
+      "label": "Cloud & GPU labs",
+      "color": "#57606a"
+    }
+  ],
+  "page": "https://inigogonzalezgarcia.github.io/inigogonzalezgarcia/"
 }
