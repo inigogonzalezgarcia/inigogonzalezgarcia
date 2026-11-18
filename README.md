@@ -32,22 +32,19 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 One new tool every weekend, each with its own post on [the blog](https://inigogonzalezgarcia.github.io/blog/).
 
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    axisFormat  %d %b
-    section November
-    56 CMDB Data Quality Review           :done,    2026-11-17, 1d
-    57 AI Use Case Register Review        :done,    2026-11-18, 1d
-    58 Business Impact Analysis           :active,  2026-11-29, 1d
-    section December
-    59 Market Data Entitlement Review     :         2026-12-05, 1d
-    60 FIX Session Health                 :         2026-12-06, 1d
-    61 Change Freeze & On-call Planner    :         2026-12-12, 1d
-    62 Conditional Access Policy Review   :         2026-12-13, 1d
-    63 Sentinel Detection Coverage        :         2026-12-19, 1d
-    64 Linux AD Integration Health        :         2026-12-20, 1d
-```
+<p align="center"><b>▰▰▱▱▱▱▱▱▱</b>&nbsp; 2 of 9 built</p>
+
+<p align="center">
+<a href="https://github.com/inigogonzalezgarcia/56-cmdb-data-quality-review"><img src="https://img.shields.io/badge/56-CMDB_Data_Quality_Review_%E2%9C%93-2ea44f?style=flat-square" alt="56 CMDB Data Quality Review"></a><br>
+<a href="https://github.com/inigogonzalezgarcia/57-ai-use-case-register"><img src="https://img.shields.io/badge/57-AI_Use_Case_Register_Review_%E2%9C%93-2ea44f?style=flat-square" alt="57 AI Use Case Register Review"></a><br>
+<img src="https://img.shields.io/badge/58-Business_Impact_Analysis_%C2%B7_29_Nov-e36209?style=flat-square" alt="58 Business Impact Analysis"><br>
+<img src="https://img.shields.io/badge/59-Market_Data_Entitlement_Review_%C2%B7_5_Dec-8b949e?style=flat-square" alt="59 Market Data Entitlement Review"><br>
+<img src="https://img.shields.io/badge/60-FIX_Session_Health_%C2%B7_6_Dec-8b949e?style=flat-square" alt="60 FIX Session Health"><br>
+<img src="https://img.shields.io/badge/61-Change_Freeze_%26_On--call_Planner_%C2%B7_12_Dec-8b949e?style=flat-square" alt="61 Change Freeze & On-call Planner"><br>
+<img src="https://img.shields.io/badge/62-Conditional_Access_Policy_Review_%C2%B7_13_Dec-8b949e?style=flat-square" alt="62 Conditional Access Policy Review"><br>
+<img src="https://img.shields.io/badge/63-Sentinel_Detection_Coverage_%C2%B7_19_Dec-8b949e?style=flat-square" alt="63 Sentinel Detection Coverage"><br>
+<img src="https://img.shields.io/badge/64-Linux_AD_Integration_Health_%C2%B7_20_Dec-8b949e?style=flat-square" alt="64 Linux AD Integration Health"><br>
+</p>
 
 | # | Coming | The question it answers | When |
 |---|---|---|---|
