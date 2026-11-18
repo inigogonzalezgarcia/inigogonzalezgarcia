@@ -11,8 +11,12 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-igonzalez93-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igonzalez93)
 [![SysAdmin Desks](https://img.shields.io/badge/SysAdmin_Desks-free_IT_support_simulator-b5541c?style=for-the-badge)](https://sysadmindesksbyigg.pages.dev)
 
+<!-- COUNTS:START -->
+
 | 🧰 **57** open-source projects | 🗓️ **7 more** before the end of 2026 | 🎮 **1** free IT support simulator | 📈 **1** educational investing lab |
 |:---:|:---:|:---:|:---:|
+
+<!-- COUNTS:END -->
 
 </div>
 
@@ -28,9 +32,11 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 ---
 
+<!-- ROADMAP:START -->
+
 ### 🗺️ Roadmap to the end of 2026
 
-Every repo sits on the date of its post on [the blog](https://inigogonzalezgarcia.github.io/blog/): 52 repos between 1 October and 18 November, then 58 on Sunday 29 November and one every Saturday and Sunday from 5 to 20 December.
+Every repo sits on the date of its post on [the blog](https://inigogonzalezgarcia.github.io/blog/). **52** published since 1 October; 🗓️ marks the 7 still to come. 📍 is today. This calendar updates itself.
 
 **October 2026** · 34 published
 
@@ -49,7 +55,7 @@ Every repo sits on the date of its post on [the blog](https://inigogonzalezgarci
 |   |   |   |   |   |   | **1** |
 | **2**<br>[40](https://inigogonzalezgarcia.github.io/blog/40-change-calendar-risk-review.html "40-change-calendar-risk-review") [41](https://inigogonzalezgarcia.github.io/blog/41-windows-update-ring-tracker.html "41-windows-update-ring-tracker") | **3**<br>[42](https://inigogonzalezgarcia.github.io/blog/42-retail-store-it-health.html "42-retail-store-it-health") | **4**<br>[43](https://inigogonzalezgarcia.github.io/blog/43-azure-cost-rightsizing.html "43-azure-cost-rightsizing") | **5**<br>[44](https://inigogonzalezgarcia.github.io/blog/44-m365-copilot-readiness.html "44-m365-copilot-readiness") | **6**<br>[45](https://inigogonzalezgarcia.github.io/blog/45-network-config-compliance.html "45-network-config-compliance") | **7** | **8**<br>[46](https://inigogonzalezgarcia.github.io/blog/46-problem-management-review.html "46-problem-management-review") [47](https://inigogonzalezgarcia.github.io/blog/47-multi-site-it-scorecard.html "47-multi-site-it-scorecard") |
 | **9**<br>[48](https://inigogonzalezgarcia.github.io/blog/48-new-starter-day-one-readiness.html "48-new-starter-day-one-readiness") | **10**<br>[49](https://inigogonzalezgarcia.github.io/blog/49-it-project-portfolio-health.html "49-it-project-portfolio-health") | **11**<br>[50](https://inigogonzalezgarcia.github.io/blog/50-saas-licence-spend-review.html "50-saas-licence-spend-review") | **12**<br>[51](https://inigogonzalezgarcia.github.io/blog/51-windows-server-baseline-drift.html "51-windows-server-baseline-drift") | **13**<br>[52](https://inigogonzalezgarcia.github.io/blog/52-endpoint-security-coverage.html "52-endpoint-security-coverage") | **14**<br>[53](https://inigogonzalezgarcia.github.io/blog/53-dns-dhcp-ipam-review.html "53-dns-dhcp-ipam-review") | **15**<br>[54](https://inigogonzalezgarcia.github.io/blog/54-it-business-case-builder.html "54-it-business-case-builder") |
-| **16**<br>[55](https://inigogonzalezgarcia.github.io/blog/55-printer-fleet-health.html "55-printer-fleet-health") | **17**<br>[56](https://inigogonzalezgarcia.github.io/blog/56-cmdb-data-quality-review.html "56-cmdb-data-quality-review") | **18**<br>[57](https://inigogonzalezgarcia.github.io/blog/57-ai-use-case-register.html "57-ai-use-case-register") | **19** | **20** | **21** | **22** |
+| **16**<br>[55](https://inigogonzalezgarcia.github.io/blog/55-printer-fleet-health.html "55-printer-fleet-health") | **17**<br>[56](https://inigogonzalezgarcia.github.io/blog/56-cmdb-data-quality-review.html "56-cmdb-data-quality-review") | 📍&nbsp;**18**<br>[57](https://inigogonzalezgarcia.github.io/blog/57-ai-use-case-register.html "57-ai-use-case-register") | **19** | **20** | **21** | **22** |
 | **23** | **24** | **25** | **26** | **27** | **28** | **29**<br>🗓️&nbsp;58 |
 | **30** |   |   |   |   |   |   |
 
@@ -63,11 +69,11 @@ Every repo sits on the date of its post on [the blog](https://inigogonzalezgarci
 | **21** | **22** | **23** | **24** | **25** | **26** | **27** |
 | **28** | **29** | **30** | **31** |   |   |   |
 
-<sub>Click a number to read its post. 🗓️ marks the ones still to come.</sub>
+<sub>Click a number to read its post.</sub>
 
 <p align="center">
-<img src="https://img.shields.io/badge/October-34_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="October: 34 tools built">
-<img src="https://img.shields.io/badge/November-18_built_%C2%B7_1_to_go-e36209?style=for-the-badge" alt="November: 18 built, 1 to go">
+<img src="https://img.shields.io/badge/October-34_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="October: 34 tools ✓">
+<img src="https://img.shields.io/badge/November-18_built_%C2%B7_1_to_go-e36209?style=for-the-badge" alt="November: 18 built · 1 to go">
 <img src="https://img.shields.io/badge/December-6_planned-8b949e?style=for-the-badge" alt="December: 6 planned">
 </p>
 
@@ -81,6 +87,7 @@ Every repo sits on the date of its post on [the blog](https://inigogonzalezgarci
 | 63 | **Sentinel Detection Coverage** | Which attacks Microsoft Sentinel would actually see: data connectors that went quiet, analytic rules that never fire or never close, and coverage per technique | 19 Dec |
 | 64 | **Linux AD Integration Health** | Linux servers and desktops joined to Active Directory: machines that lost the trust, Kerberos and time drift, sudo rights from AD groups, and hosts no one manages | 20 Dec |
 
+<!-- ROADMAP:END -->
 ---
 
 ### 🧰 The toolbox
