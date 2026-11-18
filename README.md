@@ -1,93 +1,195 @@
-### Hi, I'm Iñigo 👋
+<div align="center">
 
-IT Operations & End User Services leader with 11+ years of experience in financial services, healthcare, manufacturing and luxury retail. I lead distributed IT teams across countries and time zones, and I stay hands-on with infrastructure, endpoints and service delivery.
+# Hi, I'm Iñigo 👋
 
-This GitHub is where I turn lessons from that work into small, practical tools.
+**IT Operations & End User Services leader** · 11+ years in financial services, healthcare, manufacturing and luxury retail
 
-**Website:** [inigogonzalezgarcia.github.io](https://inigogonzalezgarcia.github.io): career, toolkit, an interactive map and all my projects (ES/EN).
+I lead distributed IT teams across countries and time zones and stay hands-on with infrastructure, endpoints and service delivery.<br>
+This GitHub is where I turn what that work teaches me into small, practical tools anyone can run.
 
-**Focus areas:** IT operations in critical environments · Modern Workplace · ITSM and service delivery · Security and resilience · Automation and FinOps
+[![Website](https://img.shields.io/badge/Website-inigogonzalezgarcia.github.io-0b1f2a?style=for-the-badge&logo=githubpages&logoColor=white)](https://inigogonzalezgarcia.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-igonzalez93-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igonzalez93)
+[![SysAdmin Desks](https://img.shields.io/badge/SysAdmin_Desks-free_IT_support_simulator-b5541c?style=for-the-badge)](https://sysadmindesksbyigg.pages.dev)
 
-**Stack:** Python · pandas · Streamlit · PowerShell · Microsoft Graph · AWS · Microsoft 365 · ServiceNow
+| 🧰 **57** open-source projects | 🗓️ **7 more** before the end of 2026 | 🎮 **1** free IT support simulator | 📈 **1** educational investing lab |
+|:---:|:---:|:---:|:---:|
 
-**Labs:** cloud and Kubernetes networking (Ingress, DNS, private connectivity), Terraform, SRE practice (SLOs, error budgets, incident reviews) and day 2 operations for GPU clusters. Projects 06–16 are hands-on labs that take my infrastructure and operations experience into these areas.
+</div>
 
 ---
 
-### Projects
+### 🎯 What I work on
 
-Each project starts from a real problem I have dealt with. All of them are built from scratch with synthetic data: no employer code, data or systems.
+**Focus:** IT operations in critical environments · Modern Workplace · ITSM and service delivery · Security and resilience · Automation and FinOps
 
-| # | Project | Problem it tackles | Status |
+**Stack:** Python · PowerShell · Microsoft Graph · Microsoft 365 · Intune · Entra ID · Jamf · Azure · AWS · Cisco · Docker
+
+**How every tool is built:** it starts from a real problem I have dealt with, runs out of the box on fictional demo data, reads your own exports (CSV or a read-only script), and ends in a report, a one-page pack for the meeting where the decisions are taken, and a list of actions with an owner and a date. No employer code, data or systems.
+
+---
+
+### 🗺️ Roadmap to the end of 2026
+
+One new tool every weekend, each with its own post on [the blog](https://inigogonzalezgarcia.github.io/blog/).
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d %b
+    section November
+    56 CMDB Data Quality Review           :done,    2026-11-17, 1d
+    57 AI Use Case Register Review        :done,    2026-11-18, 1d
+    58 Business Impact Analysis           :active,  2026-11-29, 1d
+    section December
+    59 Market Data Entitlement Review     :         2026-12-05, 1d
+    60 FIX Session Health                 :         2026-12-06, 1d
+    61 Change Freeze & On-call Planner    :         2026-12-12, 1d
+    62 Conditional Access Policy Review   :         2026-12-13, 1d
+    63 Sentinel Detection Coverage        :         2026-12-19, 1d
+    64 Linux AD Integration Health        :         2026-12-20, 1d
+```
+
+| # | Coming | The question it answers | When |
 |---|---|---|---|
-| 01 | [FinOps Cloud Cost Dashboard](https://github.com/inigogonzalezgarcia/01-finops-cloud-cost-dashboard) | Cloud cost drift and anomalies across AWS and Azure | ✅ Live |
-| 02 | [Intune Device Compliance Report](https://github.com/inigogonzalezgarcia/02-intune-compliance-report) | Endpoint compliance visibility for IT and management | ✅ Live |
-| 03 | [Entra ID Identity Hygiene Audit](https://github.com/inigogonzalezgarcia/03-entra-id-hygiene-audit) | Inactive accounts, stale guests and users without MFA | ✅ Live |
-| 04 | [ITSM Service Desk KPI Dashboard](https://github.com/inigogonzalezgarcia/04-itsm-kpi-dashboard) | MTTR, SLA and backlog tracking for service desks | ✅ Live |
-| 05 | [IT Ops Console](https://github.com/inigogonzalezgarcia/05-it-ops-console) | One view for on-site IT operations, invite-only with MFA | ✅ Live |
-| 06 | [Kubernetes Ingress Lab](https://github.com/inigogonzalezgarcia/06-kubernetes-ingress-lab) | Ingress, DNS and network policies with Cilium, Envoy Gateway and external-dns | ✅ Live |
-| 07 | [AWS Private Connectivity](https://github.com/inigogonzalezgarcia/07-aws-private-connectivity) | PrivateLink, private DNS and security controls as code (Terraform) | ✅ Live |
-| 08 | [Edge Health & SLO Monitor](https://github.com/inigogonzalezgarcia/08-edge-health-slo-monitor) | DNS, TLS and HTTP probes with SLOs, burn-rate alerts and incident reviews | ✅ Live |
-| 09 | [GPU Node Remediation](https://github.com/inigogonzalezgarcia/09-gpu-node-remediation) | Kubernetes controller that drains, repairs, validates or quarantines unhealthy GPU nodes (Go, kind e2e) | ✅ Live |
-| 10 | [GPU Fleet Observability](https://github.com/inigogonzalezgarcia/10-gpu-fleet-observability) | dcgm-exporter metrics, alerts with runbooks and promtool tests, Alertmanager routing, Grafana and a fleet report | ✅ Live |
-| 11 | [GPU Fleet Lifecycle](https://github.com/inigogonzalezgarcia/11-gpu-fleet-lifecycle) | Driver rollouts across a GPU fleet: canary, approval, batches, validation, soak and automatic rollback | ✅ Live |
-| 12 | [GPU Goodput and MTBI](https://github.com/inigogonzalezgarcia/12-gpu-goodput-mtbi) | Where a large training job's GPU-hours go: interruption simulator, goodput and MTBI, Young/Daly checkpoints, goodput SLO | ✅ Live |
-| 13 | [GPU Cluster Acceptance and Burn-in](https://github.com/inigogonzalezgarcia/13-cluster-acceptance-burnin) | Handover to sign-off: staged DCGM/NCCL validation, burn-in, agreed criteria, punch list and customer report | ✅ Live |
-| 14 | [Slurm GPU Operations](https://github.com/inigogonzalezgarcia/14-slurm-gpu-ops) | Slurm cluster in Docker Compose: XID health check that drains and requeues, validation in a maintenance reservation, goodput from sacct | ✅ Live |
-| 15 | [Multi-tenant GPU Scheduling](https://github.com/inigogonzalezgarcia/15-multi-tenant-gpu-scheduling) | One GPU agreement for three teams, enforced by Kueue and KAI Scheduler on kind with simulated GPUs: borrowing, reclaim, priorities, gang scheduling, GPU sharing; KubeVirt under software emulation | ✅ Live |
-| 16 | [GitOps GPU Fleet](https://github.com/inigogonzalezgarcia/16-gitops-gpu-fleet) | GPU Operator and Network Operator releases promoted with Flux across kind clusters (staging → prod H100 → prod A100): versions pinned per node pool, `helm template` + kubeconform in CI, approvals in Git, rollout plan for repo 11 generated from the same file | ✅ Live |
-| 17 | [Teams Rooms Fleet Health](https://github.com/inigogonzalezgarcia/17-teams-rooms-fleet-health) | Which meeting rooms will fail today: Teams Rooms health from Microsoft Graph, room register and bookings turned into an ordered morning check, firmware drift and a daily trend | ✅ Live |
-| 18 | [MECM + Intune Co-management Tracker](https://github.com/inigogonzalezgarcia/18-mecm-intune-comanagement-tracker) | Real co-management state, workload authority against the plan, Windows 11 waves and go/no-go gates for the next slider move | ✅ Live |
-| 19 | [AD Infrastructure Health Check](https://github.com/inigogonzalezgarcia/19-ad-infra-health-check) | Weekly Active Directory check from one read-only export: DC services, clock and disk, replication links and tombstone risk, DHCP scopes, GPO hygiene, privileged groups and krbtgt age, compared with last week | ✅ Live |
-| 20 | [Entra SSO App Audit](https://github.com/inigogonzalezgarcia/20-entra-sso-app-audit) | Monthly review of enterprise apps and app registrations: SAML certificates and secrets about to expire, owners, assignment and MFA coverage, risky permissions and consents, SCIM provisioning, with a renewal calendar | ✅ Live |
-| 21 | [Apple Fleet Audit](https://github.com/inigogonzalezgarcia/21-apple-fleet-audit) | Weekly review of a Jamf Pro Apple fleet: APNs, ADE and Apps and Books tokens, OS currency, FileVault, SIP and bootstrap token, passcodes, stale check-ins, storage and warranty, VIP devices first | ✅ Live |
-| 22 | [DEX Experience Score](https://github.com/inigogonzalezgarcia/22-dex-experience-score) | Lab: endpoint telemetry (boot, crashes, Wi-Fi, Teams calls, VPN, battery) turned into a 0-10 experience score per device, site and department, with a weekly trend and the top fixes | ✅ Live |
-| 23 | [IT Vendor Contract Tracker](https://github.com/inigogonzalezgarcia/23-it-vendor-contract-tracker) | Monthly review of the contract register: notice deadlines and contracts that renew by themselves, unused and over-deployed licences, budget forecast, missed SLAs and service credits, single-supplier risk, with a renewal calendar to import | ✅ Live |
-| 24 | [Hospitality IT Pre-opening](https://github.com/inigogonzalezgarcia/24-hospitality-it-preopening) | Will IT be ready before the hotel opens: task network with vendor lead times, critical path, gates from T-90 to T-1, blocked and start-now work, risks and a go-live checklist | ✅ Live |
-| 25 | [Security Controls Evidence](https://github.com/inigogonzalezgarcia/25-security-controls-evidence) | One control register mapped to ISO 27001, NIS2 and GDPR: missing, late or failing evidence, controls claimed without proof, expired exceptions, readiness per framework, an audit pack and an evidence calendar | ✅ Live |
-| 26 | [OT Segmentation Lab](https://github.com/inigogonzalezgarcia/26-ot-segmentation-lab) | A plant network checked against the Purdue model and IEC 62443 zones and conduits: paths that bypass the DMZ, controller protocols from IT, remote access that skips the jump host, the safety system reachable from control, and a tighter rule set from observed traffic | ✅ Live |
-| 27 | [M365 Tenant Governance Review](https://github.com/inigogonzalezgarcia/27-m365-tenant-governance-review) | A monthly review of a Microsoft 365 tenant: standing admin roles and PIM, emergency accounts, Conditional Access basics, settings drift, licences to reclaim, and admin changes matched to change tickets, including the provider's | ✅ Live |
-| 28 | [EUC Provider Service Review](https://github.com/inigogonzalezgarcia/28-euc-provider-service-review) | Monthly service review of a provider-run end-user computing service from a ticket export: SLA scorecard with the breach list, backlog and ageing, escalations and the OLAs the internal teams owe, out-of-hours coverage, quality signals a compliance figure hides, and the service credits due | ✅ Live |
-| 29 | [Tenant Separation Cutover Planner](https://github.com/inigogonzalezgarcia/29-tenant-separation-cutover-planner) | Readiness review for a Microsoft 365 tenant separation from the source tenant's exports: devices that cannot be reset into the target (Autopilot, BitLocker, Windows 11 hardware), users who will fail on day 1, applications without a decision, and a go / no-go per wave with the reason | ✅ Live |
-| 30 | [Jira & Confluence Admin Kit](https://github.com/inigogonzalezgarcia/30-jira-confluence-admin-kit) | Monthly admin review of a Jira, JSM and Confluence Cloud site from its own exports: licences to reclaim with the saving, admins, external users and service accounts without an owner, projects, spaces and custom fields to clean up, and the agile health of every Scrum board (carry-over, scope added, say/do, idle boards) | ✅ Live |
-| 31 | [Dealer Systems Health](https://github.com/inigogonzalezgarcia/31-dealer-systems-health) | Weekly review of a car brand's dealer systems from the network's own exports: DMS feeds that stopped or send nothing, warranty claims about to miss the deadline and why they are rejected, the parts catalogue and price file each dealer really uses, and dealers opening or leaving, per dealer in red, amber or green | ✅ Live |
-| 32 | [Backup Restore Test Tracker](https://github.com/inigogonzalezgarcia/32-backup-restore-test-tracker) | Monthly review of whether backups would actually bring systems back: RPO from the last good backup, offsite and immutable copies that really ran, restore tests against the plan and the RTO, and DR exercises with their actions, per system and tier | ✅ Live |
-| 33 | [Executive Meeting Readiness](https://github.com/inigogonzalezgarcia/33-executive-meeting-readiness) | Readiness check of board, committee and executive meetings: the tech check, the Teams Room and its peripherals, updates inside the freeze, VIP devices and the support engineer, with a ready / attention / at-risk verdict per meeting | ✅ Live |
-| 34 | [Venue Service Readiness](https://github.com/inigogonzalezgarcia/34-venue-service-readiness) | Morning check of a hospitality venue before each service: enough working tills and handhelds, kitchen printers, card terminals and cash machines, the internet failover and Wi-Fi, the PMS and IPTV, and vendor tickets past their SLA, with a ready / attention / at-risk verdict per service | ✅ Live |
-| 35 | [Private Cloud Capacity Review](https://github.com/inigogonzalezgarcia/35-private-cloud-capacity-review) | Monthly capacity and availability review of a private cloud (vSphere and Nutanix): headroom after a host failure, the month each cluster crosses its N+1 limit with the approved projects, the reclaim list that buys time, datastores, availability, and when to order hosts | ✅ Live |
-| 36 | [Major Incident Command Kit](https://github.com/inigogonzalezgarcia/36-major-incident-command-kit) | Running and reviewing P1/P2 incidents: detection gaps and monitoring blind spots, MTTA and MTTR against target, stakeholder update gaps, changes in the 72 hours before, overdue actions and repeats, with a timeline and a draft post-incident review per incident | ✅ Live |
-| 37 | [IAM Access Review](https://github.com/inigogonzalezgarcia/37-iam-access-review) | Monthly identity and access review: leavers still enabled, movers keeping old access, orphan accounts, standing admin roles outside PIM, vault rotation, service and guest accounts, and recertification results, with an auditor-ready pack | ✅ Live |
-| 38 | [IT Asset Lifecycle Planner](https://github.com/inigogonzalezgarcia/38-it-asset-lifecycle-planner) | Monthly asset review of an office IT site: Device42 comms rooms, Intune and Jamf devices, purchases and the office register joined by serial; devices missing from the inventory, end of support and warranty, leavers' devices, stock and a refresh forecast by quarter for the budget | ✅ Live |
-| 39 | [Vulnerability Remediation SLA](https://github.com/inigogonzalezgarcia/39-vulnerability-remediation-sla) | Weekly and monthly vulnerability review against the remediation SLA: Qualys detections joined with CISA KEV, EPSS, the asset register, Tanium and Intune patch status and the exceptions; overdue and KEV findings, pending reboots, re-opened fixes, end of support, scan coverage, expired exceptions and the fixes that close most risk | ✅ Live |
-| 40 | [Change Calendar Risk Review](https://github.com/inigogonzalezgarcia/40-change-calendar-risk-review) | Weekly CAB and monthly change review from ServiceNow changes, the service map, freezes and incidents: changes not ready for the CAB, collisions on the same night or through dependencies, work inside a freeze, emergency and standard changes, success rate, incidents after changes, overdue PIRs and teams behind | ✅ Live |
-| 41 | [Windows Update Ring Tracker](https://github.com/inigogonzalezgarcia/41-windows-update-ring-tracker) | Monthly Patch Tuesday rollout through Intune update rings (and MECM for co-managed devices): each ring against its deadline, go/no-go gates for the next promotion, devices behind and why, failures by model and error code, paused rings, pilot and late-ring composition, and the trend | ✅ Live |
-| 42 | [Retail Store IT Health](https://github.com/inigogonzalezgarcia/42-retail-store-it-health) | Weekly review of a retail chain's stores with no IT on site: primary lines, 4G backup and data caps, tunnels by region, store PCs, printers, terminals and UPS, tickets against the median, openings and closings, joiners without accounts, with red / amber / green per store and a visit and ship list by technician | ✅ Live |
-| 43 | [Azure Cost Right-Sizing Review](https://github.com/inigogonzalezgarcia/43-azure-cost-rightsizing) | Monthly Azure cost review from the Cost Management FOCUS export: VMs one size down, VMs stopped but not deallocated, always-on dev/test, orphaned disks and IPs, reservations and savings plans under target or about to auto-renew, coverage, and showback by cost centre against budget and unit cost | ✅ Live |
-| 44 | [M365 Copilot Readiness](https://github.com/inigogonzalezgarcia/44-m365-copilot-readiness) | Microsoft 365 Copilot readiness before each rollout wave: licences to reclaim, training, MFA and device gaps, SharePoint oversharing for the wave's departments, sensitivity label and DLP coverage, Copilot Studio agents without an owner or with unapproved connectors, and adoption by app and department, with a ready / attention / not ready verdict per wave | ✅ Live |
-| 45 | [Network Config Compliance](https://github.com/inigogonzalezgarcia/45-network-config-compliance) | Weekly configuration compliance review of the comms rooms: Cisco, HP/Aruba and FortiGate configs against a baseline (SSH and AAA, SNMP v3, NTP and syslog, unused ports and VLAN 1, any-any firewall policies and admin access on the WAN), missing or stale backups, unsaved changes and changes with no ticket, unapproved OS versions and end of support, per device and site | ✅ Live |
-| 46 | [Problem Management Review](https://github.com/inigogonzalezgarcia/46-problem-management-review) | Monthly problem management review from ITSM exports (Jira Service Management, HaloITSM, EasyVista): clusters of recurring incidents with no problem record, major incidents without RCA, stuck and ownerless problems, known errors with a workaround and no permanent fix, fixes that did not stop the incidents, and the agenda for the problem review | ✅ Live |
-| 47 | [Multi-Site IT Scorecard](https://github.com/inigogonzalezgarcia/47-multi-site-it-scorecard) | Monthly IT scorecard per office and regional roll-up: SLA, first-contact resolution, backlog and ageing, CSAT, availability per service, Intune compliance, ageing hardware and DR test freshness, with RAG against targets, month-on-month trend and the reason behind every red | ✅ Live |
-| 48 | [New Starter Day-One Readiness](https://github.com/inigogonzalezgarcia/48-new-starter-day-one-readiness) | Day-one readiness for everyone starting in the next ten working days, from HR, Entra ID and Intune/Jamf exports: account, usage location and licence, role groups and privileged extras, shared mailboxes and app access, laptop, phone and MFA, licence pool and stock forecast, rehires and late requests, with a countdown, a blocker/risk verdict per joiner and an owner for every gap | ✅ Live |
-| 49 | [IT Project Portfolio Health](https://github.com/inigogonzalezgarcia/49-it-project-portfolio-health) | IT portfolio health before the steering committee, from PPM, RAID, resource plan, release and Jira/Azure DevOps exports: computed RAG per project with the reason next to the PM's own, watermelon projects, CPI/SPI and forecast at completion, stale status and overdue RAID items, falling velocity and scope growth, people over-allocated across projects, go-lives in a change freeze or still waiting for the CAB, benefits with no owner, and the decisions the committee has to take | ✅ Live |
-| 50 | [SaaS & Licence Spend Review](https://github.com/inigogonzalezgarcia/50-saas-licence-spend-review) | What the company pays for in licences and SaaS against what is actually used, from the licence register, the assignments with last activity, HR or Entra ID users and card expenses: unused and leaver licences, E5 users who could be on E3, shelfware and true-up risk, notice deadlines and uplifts before each renewal, overlapping apps, shadow IT, showback per department and the saving of every action, with a read-only Microsoft Graph exporter | ✅ Live |
-| 51 | [Windows Server Baseline Drift](https://github.com/inigogonzalezgarcia/51-windows-server-baseline-drift) | Monthly security baseline review for Windows servers, from the approved baseline, the inventory, the settings collected per server and the exceptions: compliance per server, area and tier, new drift since last month, GPOs that stopped applying, local overrides and missing settings, high-risk deviations first (SMBv1, NTLM, LLMNR, LAPS, RDP without NLA, ASR in audit, TLS 1.0), expired exceptions and servers not reporting, with a read-only PowerShell collector and audit evidence for ISO 27001 and NIS2 | ✅ Live |
-| 52 | [Endpoint Security Coverage](https://github.com/inigogonzalezgarcia/52-endpoint-security-coverage) | Monthly review of whether every laptop and desktop is protected, from the asset inventory, Intune, Defender for Endpoint, the BitLocker recovery keys in Entra ID, the local administrators and the EPM elevations: the three sources reconciled (devices in use that no tool manages, devices the inventory does not have, retired devices still checking in), coverage per control (managed, compliant, encrypted with the key escrowed, EDR healthy, antivirus, no standing admins, supported OS), candidate EPM rules and unsigned elevations, exceptions, decisions and audit evidence for ISO 27001 and NIS2 | ✅ Live |
-| 53 | [DNS, DHCP and IPAM Review](https://github.com/inigogonzalezgarcia/53-dns-dhcp-ipam-review) | Monthly review of the Windows Server DHCP and DNS services against the IP address plan: scopes filling up and the days until they are full, failover relationships and scopes outside them, DNS servers and gateways handed out (including retired domain controllers), lease lengths, duplicate and stale reservations, overlapping scopes and rogue DHCP servers, nonsecure zones, aging and scavenging, stale records and static addresses inside DHCP pools, missing reverse records and gaps in the plan, with decisions, a read-only PowerShell export and audit evidence for ISO 27001 and NIS2 | ✅ Live |
-| 54 | [IT Business Case Builder](https://github.com/inigogonzalezgarcia/54-it-business-case-builder) | The business case for an IT investment before the committee, from the options, costs year by year, benefits, risks, assumptions and criteria: every option against the cost of doing nothing with NPV, IRR, payback, ROI and risk-adjusted NPV; the checks finance makes (savings counted twice, benefits before go-live or with no owner, time saved counted as cash, unvalidated assumptions, missing migration, decommission and training costs, contingency below what the estimates need), the figures as submitted and after the checks, pessimistic and optimistic cases and sensitivity, a recommendation, the decisions and a benefits register with owners and review dates | ✅ Live |
-| 55 | [Printer Fleet Health](https://github.com/inigogonzalezgarcia/55-printer-fleet-health) | Monthly review of the printers in offices, stores and warehouses, from the register, the print server queues, the managed print portal, consumables, counters, contracts and tickets: printers down, stuck queues and queues printing to an address the printer no longer has, consumables to order with the date, usage and cost per site and department, low-use printers next to a multifunction with room to spare, security (factory passwords, secure release for confidential areas, Telnet/FTP, SNMP, firmware, drivers), leases with the notice date, repeat tickets and vendor response against the contract, with decisions and a read-only PowerShell export | ✅ Live |
-| 56 | [CMDB Data Quality Review](https://github.com/inigogonzalezgarcia/56-cmdb-data-quality-review) | Monthly review of the CMDB against Active Directory, Intune, vCenter, a network scan, the directory and the month's tickets: live CIs nobody sees (and which to retire), devices with no CI, records that disagree with discovery, duplicates and retired devices still checking in, owners who left and inactive support groups, applications with nothing to run on and services with no CI, incidents with no CI and changes that left the record behind, with a data quality score per CI, class and support group, decisions and a read-only PowerShell export | ✅ Live |
-| 57 | [AI Use Case Register Review](https://github.com/inigogonzalezgarcia/57-ai-use-case-register) | Monthly review of the AI use case register against the organisation's AI policy, what discovery finds in the tenant (enterprise apps, Copilot Studio agents, cloud app discovery), the directory and the AI incidents: AI in use that nobody registered, use cases declared in a lower risk tier than the policy gives them and practices the policy prohibits, the controls each tier needs (human oversight, DPIA, risk assessment, tests, logging, vendor DPA, transparency notice, trained owner) and reviews on time, sensitive data in tools not approved for it and vendors that can train on it, pilots with no decision, unused licences and hours saved below the estimate, with a governance score, decisions for the AI governance committee and a read-only PowerShell export | ✅ Live |
-
-### Practice
-
-| Project | What it is | Status |
-|---|---|---|
-| [SysAdmin Desks](https://sysadmindesksbyigg.pages.dev) · [repo](https://github.com/inigogonzalezgarcia/sysadmindesksbyigg) · [story](https://inigogonzalezgarcia.github.io/blog/sysadmindesksbyigg.html) | Free IT support simulator (EN/ES): 24 first- and second-line tickets with SLA, a console, a simulated Active Directory and desktop, a network room with Cisco, Aruba and FortiGate CLIs, shipments and RMA, labs, a library and a career profile; a tempting fix that does not close the ticket, and a work note that gets marked | ✅ Live (v0.8) |
-| [Lab de Inversión](https://fx-trading-lab.pages.dev) · [kit](https://fxresearchlab.gumroad.com/l/kit-backtest) | Educational lab to learn to check an investment idea with real data (ES/EN): eight years of EUR/USD and GBP/USD backtests (2019–2026) with a full research protocol, every trade explained on its chart, free lessons and a nine-level guided simulator with accounts (levels 0–2 free, 3–8 Lab Pro). Coming next: broker comparison, IPOs, investor taxes and index investing. Educational material, not investment advice | ✅ Live (v0.7) |
+| 58 | **Business Impact Analysis** | Which services the business cannot live without, their RTO and RPO, what they depend on, and whether backups and DR tests really meet them (ISO 22301) | 29 Nov |
+| 59 | **Market Data Entitlement Review** | Who can see which market data on LSEG and Bloomberg platforms, entitlements nobody uses, leavers still entitled and what to switch off before the next invoice | 5 Dec |
+| 60 | **FIX Session Health** | Electronic trading connectivity per counterparty: session drops, sequence gaps, missed heartbeats, latency and the sessions to look at before the market opens | 6 Dec |
+| 61 | **Change Freeze & On-call Planner** | The Christmas freeze: changes that must land before it, exceptions inside it, and an on-call rota with no gaps, no single points of knowledge and the escalation path for each service | 12 Dec |
+| 62 | **Conditional Access Policy Review** | Entra ID Conditional Access policy by policy: users and apps that fall through the gaps, exclusions with no owner or end date, report-only policies forgotten in report-only | 13 Dec |
+| 63 | **Sentinel Detection Coverage** | Which attacks Microsoft Sentinel would actually see: data connectors that went quiet, analytic rules that never fire or never close, and coverage per technique | 19 Dec |
+| 64 | **Linux AD Integration Health** | Linux servers and desktops joined to Active Directory: machines that lost the trust, Kerberos and time drift, sudo rights from AD groups, and hosts no one manages | 20 Dec |
 
 ---
 
-### Where the ideas come from
+### 🧰 The toolbox
+
+<details open>
+<summary><b>💻 Modern Workplace and endpoints</b> · 14 tools</summary>
+
+| # | Tool | What it does |
+|---|---|---|
+| 02 | [Intune Device Compliance Report](https://github.com/inigogonzalezgarcia/02-intune-compliance-report) | Endpoint compliance at a glance for IT and management |
+| 17 | [Teams Rooms Fleet Health](https://github.com/inigogonzalezgarcia/17-teams-rooms-fleet-health) | Which meeting rooms will fail today, from Microsoft Graph, the room register and the bookings |
+| 18 | [MECM + Intune Co-management Tracker](https://github.com/inigogonzalezgarcia/18-mecm-intune-comanagement-tracker) | Real co-management state, Windows 11 waves and go/no-go gates for the next slider move |
+| 21 | [Apple Fleet Audit](https://github.com/inigogonzalezgarcia/21-apple-fleet-audit) | Weekly Jamf Pro review: tokens, OS currency, FileVault, stale check-ins, VIP devices first |
+| 22 | [DEX Experience Score](https://github.com/inigogonzalezgarcia/22-dex-experience-score) | Lab: endpoint telemetry turned into a 0-10 experience score per device, site and department |
+| 29 | [Tenant Separation Cutover Planner](https://github.com/inigogonzalezgarcia/29-tenant-separation-cutover-planner) | Go / no-go per wave for a Microsoft 365 tenant-to-tenant separation |
+| 33 | [Executive Meeting Readiness](https://github.com/inigogonzalezgarcia/33-executive-meeting-readiness) | Board and committee meetings checked: the room, the updates, the VIP devices, the engineer |
+| 38 | [IT Asset Lifecycle Planner](https://github.com/inigogonzalezgarcia/38-it-asset-lifecycle-planner) | Inventory joined by serial, end of support and warranty, and a refresh forecast by quarter |
+| 41 | [Windows Update Ring Tracker](https://github.com/inigogonzalezgarcia/41-windows-update-ring-tracker) | Patch Tuesday through the Intune rings, with gates for each promotion |
+| 44 | [M365 Copilot Readiness](https://github.com/inigogonzalezgarcia/44-m365-copilot-readiness) | Copilot readiness per rollout wave: licences, oversharing, labels, agents and adoption |
+| 48 | [New Starter Day-One Readiness](https://github.com/inigogonzalezgarcia/48-new-starter-day-one-readiness) | Everyone starting in the next ten days: account, licence, laptop, MFA, with a blocker per joiner |
+| 52 | [Endpoint Security Coverage](https://github.com/inigogonzalezgarcia/52-endpoint-security-coverage) | Every laptop protected? Intune, Defender, BitLocker keys, local admins and EPM reconciled |
+| 55 | [Printer Fleet Health](https://github.com/inigogonzalezgarcia/55-printer-fleet-health) | Printers down, stuck queues, consumables, cost per site, security and leases |
+| 05 | [IT Ops Console](https://github.com/inigogonzalezgarcia/05-it-ops-console) | One view for on-site IT operations, invite-only with MFA |
+
+</details>
+
+<details>
+<summary><b>🔐 Identity, security, compliance and AI governance</b> · 12 tools</summary>
+
+| # | Tool | What it does |
+|---|---|---|
+| 03 | [Entra ID Identity Hygiene Audit](https://github.com/inigogonzalezgarcia/03-entra-id-hygiene-audit) | Inactive accounts, stale guests and users without MFA |
+| 20 | [Entra SSO App Audit](https://github.com/inigogonzalezgarcia/20-entra-sso-app-audit) | SAML certificates and secrets about to expire, owners, MFA coverage and risky consents |
+| 25 | [Security Controls Evidence](https://github.com/inigogonzalezgarcia/25-security-controls-evidence) | One control register mapped to ISO 27001, NIS2 and GDPR, with an audit pack |
+| 26 | [OT Segmentation Lab](https://github.com/inigogonzalezgarcia/26-ot-segmentation-lab) | Lab: a plant network checked against Purdue and IEC 62443 zones and conduits |
+| 27 | [M365 Tenant Governance Review](https://github.com/inigogonzalezgarcia/27-m365-tenant-governance-review) | Standing admin roles, PIM, emergency accounts and admin changes matched to tickets |
+| 37 | [IAM Access Review](https://github.com/inigogonzalezgarcia/37-iam-access-review) | Leavers still enabled, movers keeping old access, orphan and privileged accounts |
+| 39 | [Vulnerability Remediation SLA](https://github.com/inigogonzalezgarcia/39-vulnerability-remediation-sla) | Qualys findings with KEV and EPSS against the SLA, and the fixes that close most risk |
+| 45 | [Network Config Compliance](https://github.com/inigogonzalezgarcia/45-network-config-compliance) | Cisco, HP/Aruba and FortiGate configs against a baseline, backups and unticketed changes |
+| 51 | [Windows Server Baseline Drift](https://github.com/inigogonzalezgarcia/51-windows-server-baseline-drift) | Security baseline drift per server, GPOs that stopped applying, high-risk settings first |
+| 53 | [DNS, DHCP and IPAM Review](https://github.com/inigogonzalezgarcia/53-dns-dhcp-ipam-review) | Scopes filling up, failover, stale records and gaps in the IP plan |
+| 57 | [AI Use Case Register Review](https://github.com/inigogonzalezgarcia/57-ai-use-case-register) | Shadow AI, risk tiers from the AI policy, controls per tier and value, for the AI committee |
+| 19 | [AD Infrastructure Health Check](https://github.com/inigogonzalezgarcia/19-ad-infra-health-check) | Weekly Active Directory check: DCs, replication, GPOs, privileged groups, krbtgt |
+
+</details>
+
+<details>
+<summary><b>🛠️ ITSM and service delivery</b> · 9 tools</summary>
+
+| # | Tool | What it does |
+|---|---|---|
+| 04 | [ITSM Service Desk KPI Dashboard](https://github.com/inigogonzalezgarcia/04-itsm-kpi-dashboard) | MTTR, SLA and backlog tracking for service desks |
+| 28 | [EUC Provider Service Review](https://github.com/inigogonzalezgarcia/28-euc-provider-service-review) | Monthly service review of an outsourced end-user service, with the service credits due |
+| 30 | [Jira & Confluence Admin Kit](https://github.com/inigogonzalezgarcia/30-jira-confluence-admin-kit) | Licences to reclaim, admins and external users, clean-up and agile health per board |
+| 36 | [Major Incident Command Kit](https://github.com/inigogonzalezgarcia/36-major-incident-command-kit) | P1/P2 incidents: detection gaps, MTTA and MTTR, updates, and a draft post-incident review |
+| 40 | [Change Calendar Risk Review](https://github.com/inigogonzalezgarcia/40-change-calendar-risk-review) | The weekly CAB: collisions, freezes, emergency changes and incidents after changes |
+| 46 | [Problem Management Review](https://github.com/inigogonzalezgarcia/46-problem-management-review) | Recurring incidents with no problem record, missing RCAs and fixes that did not work |
+| 47 | [Multi-Site IT Scorecard](https://github.com/inigogonzalezgarcia/47-multi-site-it-scorecard) | One scorecard per office with RAG, trend and the reason behind every red |
+| 49 | [IT Project Portfolio Health](https://github.com/inigogonzalezgarcia/49-it-project-portfolio-health) | Computed RAG per project, watermelon projects and the decisions for the steering committee |
+| 56 | [CMDB Data Quality Review](https://github.com/inigogonzalezgarcia/56-cmdb-data-quality-review) | Can we trust the CMDB? Stale CIs, devices with no record, owners who left, broken links |
+
+</details>
+
+<details>
+<summary><b>🏗️ Infrastructure and resilience</b> · 3 tools</summary>
+
+| # | Tool | What it does |
+|---|---|---|
+| 32 | [Backup Restore Test Tracker](https://github.com/inigogonzalezgarcia/32-backup-restore-test-tracker) | Would backups bring systems back? RPO, offsite copies, restore tests and DR exercises |
+| 35 | [Private Cloud Capacity Review](https://github.com/inigogonzalezgarcia/35-private-cloud-capacity-review) | N+1 headroom per cluster and the month it runs out, for vSphere and Nutanix |
+| 08 | [Edge Health & SLO Monitor](https://github.com/inigogonzalezgarcia/08-edge-health-slo-monitor) | DNS, TLS and HTTP probes with SLOs, burn-rate alerts and incident reviews |
+
+</details>
+
+<details>
+<summary><b>💶 Cost, contracts and value</b> · 5 tools</summary>
+
+| # | Tool | What it does |
+|---|---|---|
+| 01 | [FinOps Cloud Cost Dashboard](https://github.com/inigogonzalezgarcia/01-finops-cloud-cost-dashboard) | Cloud cost drift and anomalies across AWS and Azure |
+| 23 | [IT Vendor Contract Tracker](https://github.com/inigogonzalezgarcia/23-it-vendor-contract-tracker) | Notice deadlines, renewals, unused licences and missed SLAs |
+| 43 | [Azure Cost Right-Sizing Review](https://github.com/inigogonzalezgarcia/43-azure-cost-rightsizing) | VMs to resize, waste, reservations and savings plans, showback per cost centre |
+| 50 | [SaaS & Licence Spend Review](https://github.com/inigogonzalezgarcia/50-saas-licence-spend-review) | Licences and SaaS paid for against what is used, with the saving of every action |
+| 54 | [IT Business Case Builder](https://github.com/inigogonzalezgarcia/54-it-business-case-builder) | Options, NPV and payback for an IT business case |
+
+</details>
+
+<details>
+<summary><b>🏬 Sector tools: retail, hospitality, automotive</b> · 4 tools</summary>
+
+| # | Tool | What it does |
+|---|---|---|
+| 24 | [Hospitality IT Pre-opening](https://github.com/inigogonzalezgarcia/24-hospitality-it-preopening) | Will IT be ready before the hotel opens? Critical path, gates and go-live checklist |
+| 31 | [Dealer Systems Health](https://github.com/inigogonzalezgarcia/31-dealer-systems-health) | A car brand's dealer network: DMS feeds, warranty claims and parts catalogues |
+| 34 | [Venue Service Readiness](https://github.com/inigogonzalezgarcia/34-venue-service-readiness) | Tills, payments, Wi-Fi and PMS checked before each service |
+| 42 | [Retail Store IT Health](https://github.com/inigogonzalezgarcia/42-retail-store-it-health) | Stores with no IT on site: lines, 4G backup, devices and a visit list per technician |
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud, Kubernetes and GPU labs</b> · 10 labs</summary>
+
+Hands-on labs that take my infrastructure and operations experience into cloud networking, SRE practice and day 2 operations for GPU clusters.
+
+| # | Lab | What it covers |
+|---|---|---|
+| 06 | [Kubernetes Ingress Lab](https://github.com/inigogonzalezgarcia/06-kubernetes-ingress-lab) | Ingress, DNS and network policies with Cilium, Envoy Gateway and external-dns |
+| 07 | [AWS Private Connectivity](https://github.com/inigogonzalezgarcia/07-aws-private-connectivity) | PrivateLink, private DNS and security controls as code (Terraform) |
+| 09 | [GPU Node Remediation](https://github.com/inigogonzalezgarcia/09-gpu-node-remediation) | A Kubernetes controller that drains, repairs, validates or quarantines GPU nodes (Go) |
+| 10 | [GPU Fleet Observability](https://github.com/inigogonzalezgarcia/10-gpu-fleet-observability) | dcgm-exporter metrics, alerts with runbooks, Alertmanager and Grafana |
+| 11 | [GPU Fleet Lifecycle](https://github.com/inigogonzalezgarcia/11-gpu-fleet-lifecycle) | Driver rollouts: canary, batches, soak and automatic rollback |
+| 12 | [GPU Goodput and MTBI](https://github.com/inigogonzalezgarcia/12-gpu-goodput-mtbi) | Where a training job's GPU-hours go, with a goodput SLO |
+| 13 | [GPU Cluster Acceptance and Burn-in](https://github.com/inigogonzalezgarcia/13-cluster-acceptance-burnin) | From handover to sign-off: staged validation, burn-in and a punch list |
+| 14 | [Slurm GPU Operations](https://github.com/inigogonzalezgarcia/14-slurm-gpu-ops) | A Slurm cluster in Docker Compose with health checks that drain and requeue |
+| 15 | [Multi-tenant GPU Scheduling](https://github.com/inigogonzalezgarcia/15-multi-tenant-gpu-scheduling) | One GPU agreement for three teams, enforced by Kueue and KAI Scheduler |
+| 16 | [GitOps GPU Fleet](https://github.com/inigogonzalezgarcia/16-gitops-gpu-fleet) | GPU Operator releases promoted with Flux across clusters |
+
+</details>
+
+---
+
+### 🎮 Practice
+
+| | What it is |
+|---|---|
+| **[SysAdmin Desks](https://sysadmindesksbyigg.pages.dev)**<br>[repo](https://github.com/inigogonzalezgarcia/sysadmindesksbyigg) · [story](https://inigogonzalezgarcia.github.io/blog/sysadmindesksbyigg.html) | Free IT support simulator (EN/ES): first- and second-line tickets with SLA, a console, a simulated Active Directory and desktop, a network room with Cisco, Aruba and FortiGate CLIs, shipments and RMA, labs, a library and a career profile. A tempting fix that does not close the ticket, and a work note that gets marked |
+| **[Lab de Inversión](https://fx-trading-lab.pages.dev)**<br>[kit](https://igglabs.gumroad.com/l/kit-backtest) | Educational lab to learn to check an investment idea with real data (ES/EN): eight years of EUR/USD and GBP/USD backtests (2019–2026) with a full research protocol, every trade explained on its chart, free lessons and a nine-level guided simulator. Educational material, not investment advice |
+
+---
+
+### 🧭 Where the ideas come from
 
 | Period | Role | Environment |
 |---|---|---|
@@ -97,6 +199,6 @@ Each project starts from a real problem I have dealt with. All of them are built
 | 2016 – 2018 | IT Support / Systems Engineer | Luxury retail, multinational |
 | 2015 – 2016 | IT Support Engineer | Technology consultancy |
 
-### Customisation and contact
+### ✉️ Customisation and contact
 
 Want one of these tools adapted to your environment? Use the contact form on [my website](https://inigogonzalezgarcia.github.io/about.html#contacto) or reach out on [LinkedIn](https://www.linkedin.com/in/igonzalez93).
