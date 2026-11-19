@@ -173,7 +173,7 @@
 <rect x="211" y="148" width="10" height="18" rx="2" fill="#1a7f37"/>
 <rect x="499" y="148" width="10" height="18" rx="2" fill="#1a7f37"/>
 <rect x="523" y="148" width="10" height="18" rx="2" fill="#1a7f37"/>
-<rect x="919.5" y="148.5" width="9" height="17" rx="2" fill="none" stroke="#1a7f37" stroke-width="1.5" stroke-dasharray="2 2"/>
+<rect x="799" y="148" width="10" height="18" rx="2" fill="#1a7f37"/>
 <line x1="12" y1="172" x2="1314" y2="172" stroke="#d1d9e0" stroke-width="1"/>
 <rect x="12" y="182.0" width="10" height="10" rx="2" fill="#9a6700"/>
 <text x="28" y="192.0" font-size="14" fill="#1f2328">Cost &amp; value</text>
