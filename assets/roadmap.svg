@@ -188,7 +188,7 @@
 <rect x="499" y="208" width="10" height="18" rx="2" fill="#bc4c00"/>
 <rect x="511" y="208" width="10" height="18" rx="2" fill="#bc4c00"/>
 <rect x="607" y="208" width="10" height="18" rx="2" fill="#bc4c00"/>
-<rect x="991.5" y="208.5" width="9" height="17" rx="2" fill="none" stroke="#bc4c00" stroke-width="1.5" stroke-dasharray="2 2"/>
+<rect x="811" y="208" width="10" height="18" rx="2" fill="#bc4c00"/>
 <rect x="1003.5" y="208.5" width="9" height="17" rx="2" fill="none" stroke="#bc4c00" stroke-width="1.5" stroke-dasharray="2 2"/>
 <line x1="12" y1="232" x2="1314" y2="232" stroke="#d1d9e0" stroke-width="1"/>
 <rect x="12" y="242.0" width="10" height="10" rx="2" fill="#57606a"/>
