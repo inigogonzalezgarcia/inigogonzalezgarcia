@@ -13,7 +13,7 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 <!-- COUNTS:START -->
 
-| 🧰 **59** open-source projects | 🗓️ **5 more** before the end of 2026 | 🎮 **1** free IT support simulator | 📈 **1** educational investing lab |
+| 🧰 **60** open-source projects | 🗓️ **4 more** before the end of 2026 | 🎮 **1** free IT support simulator | 📈 **1** educational investing lab |
 |:---:|:---:|:---:|:---:|
 
 <!-- COUNTS:END -->
@@ -36,7 +36,7 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 ### 🗺️ Roadmap to the end of 2026
 
-Every repo on the day its post went out on [the blog](https://inigogonzalezgarcia.github.io/blog/), by area. **54** published since 1 October, 5 still to come. The red line is today; the chart updates itself.
+Every repo on the day its post went out on [the blog](https://inigogonzalezgarcia.github.io/blog/), by area. **55** published since 1 October, 4 still to come. The red line is today; the chart updates itself.
 
 <a href="https://inigogonzalezgarcia.github.io/inigogonzalezgarcia/"><img src="assets/roadmap.svg" alt="Roadmap: every repo by area and day, from 1 October to 31 December 2026" width="100%"></a>
 
@@ -44,13 +44,12 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 
 <p align="center">
 <img src="https://img.shields.io/badge/October-34_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="October: 34 tools ✓">
-<img src="https://img.shields.io/badge/November-20_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="November: 20 tools ✓">
-<img src="https://img.shields.io/badge/December-5_planned-8b949e?style=for-the-badge" alt="December: 5 planned">
+<img src="https://img.shields.io/badge/November-21_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="November: 21 tools ✓">
+<img src="https://img.shields.io/badge/December-4_planned-8b949e?style=for-the-badge" alt="December: 4 planned">
 </p>
 
 | # | Coming | The question it answers | When |
 |---|---|---|---|
-| 60 | **FIX Session Health** | Electronic trading connectivity per counterparty: session drops, sequence gaps, missed heartbeats, latency and the sessions to look at before the market opens | 6 Dec |
 | 61 | **Change Freeze & On-call Planner** | The Christmas freeze: changes that must land before it, exceptions inside it, and an on-call rota with no gaps, no single points of knowledge and the escalation path for each service | 12 Dec |
 | 62 | **Conditional Access Policy Review** | Entra ID Conditional Access policy by policy: users and apps that fall through the gaps, exclusions with no owner or end date, report-only policies forgotten in report-only | 13 Dec |
 | 63 | **Sentinel Detection Coverage** | Which attacks Microsoft Sentinel would actually see: data connectors that went quiet, analytic rules that never fire or never close, and coverage per technique | 19 Dec |
@@ -146,7 +145,7 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 </details>
 
 <details>
-<summary><b>🏬 Sector tools: retail, hospitality, automotive, trading</b> · 5 tools</summary>
+<summary><b>🏬 Sector tools: retail, hospitality, automotive, trading</b> · 6 tools</summary>
 
 | # | Tool | What it does |
 |---|---|---|
@@ -155,6 +154,7 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 | 34 | [Venue Service Readiness](https://github.com/inigogonzalezgarcia/34-venue-service-readiness) | Tills, payments, Wi-Fi and PMS checked before each service |
 | 42 | [Retail Store IT Health](https://github.com/inigogonzalezgarcia/42-retail-store-it-health) | Stores with no IT on site: lines, 4G backup, devices and a visit list per technician |
 | 59 | [Market Data Entitlement Review](https://github.com/inigogonzalezgarcia/59-market-data-entitlement-review) | Who sees which market data on LSEG and Bloomberg, leavers still entitled, packages nobody uses, the invoice against entitlements and what to switch off before the cut-off |
+| 60 | [FIX Session Health](https://github.com/inigogonzalezgarcia/60-fix-session-health) | FIX sessions per counterparty over the week: drops, refused logons, sequence gaps and resets, missed heartbeats, rejects, latency, and what to check before the open |
 
 </details>
 
