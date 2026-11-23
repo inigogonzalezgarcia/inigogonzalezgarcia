@@ -166,7 +166,7 @@
 <text x="672.0" y="130.5" font-size="9" font-weight="700" text-anchor="middle" fill="#ffffff">2</text>
 <rect x="691" y="118" width="10" height="18" rx="2" fill="#bf3989"/>
 <rect x="775" y="118" width="10" height="18" rx="2" fill="#bf3989"/>
-<rect x="1075.5" y="118.5" width="9" height="17" rx="2" fill="none" stroke="#bf3989" stroke-width="1.5" stroke-dasharray="2 2"/>
+<rect x="847" y="118" width="10" height="18" rx="2" fill="#bf3989"/>
 <line x1="12" y1="142" x2="1314" y2="142" stroke="#d1d9e0" stroke-width="1"/>
 <rect x="12" y="152.0" width="10" height="10" rx="2" fill="#1a7f37"/>
 <text x="28" y="162.0" font-size="14" fill="#1f2328">Infrastructure</text>
