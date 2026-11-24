@@ -218,7 +218,7 @@ def badge(label: str, message: str, color: str) -> str:
 def blocks(m: dict, cfg: dict) -> tuple[str, str]:
     start, end, today, shown, left = m["start"], m["end"], m["today"], m["shown"], m["left"]
     counts = (f"| 🧰 **{len(shown)}** open-source projects | 🗓️ **{len(left)} more** before the end of {end.year} | "
-              "🎮 **1** free IT support simulator | 📈 **1** educational investing lab |\n|:---:|:---:|:---:|:---:|")
+              "🎮 **1** free IT support simulator |\n|:---:|:---:|:---:|")
     parts = [f"### 🗺️ Roadmap to the end of {end.year}", "",
              f"Every repo on the day its post went out on [the blog]({cfg['blog']}), by area. **{m['in_range']}** published since "
              f"{start.day} {MONTHS[start.month]}" + (f", {len(left)} still to come" if left else "") + ". The red line is today; the chart updates itself.", "",
