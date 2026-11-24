@@ -152,7 +152,7 @@
 <rect x="715" y="88" width="10" height="18" rx="2" fill="#8250df"/>
 <rect x="739" y="88" width="10" height="18" rx="2" fill="#8250df"/>
 <rect x="787" y="88" width="10" height="18" rx="2" fill="#8250df"/>
-<rect x="1087.5" y="88.5" width="9" height="17" rx="2" fill="none" stroke="#8250df" stroke-width="1.5" stroke-dasharray="2 2"/>
+<rect x="859" y="88" width="10" height="18" rx="2" fill="#8250df"/>
 <rect x="1159.5" y="88.5" width="9" height="17" rx="2" fill="none" stroke="#8250df" stroke-width="1.5" stroke-dasharray="2 2"/>
 <rect x="1171.5" y="88.5" width="9" height="17" rx="2" fill="none" stroke="#8250df" stroke-width="1.5" stroke-dasharray="2 2"/>
 <line x1="12" y1="112" x2="1314" y2="112" stroke="#d1d9e0" stroke-width="1"/>

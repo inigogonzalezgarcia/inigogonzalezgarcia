@@ -13,7 +13,7 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 <!-- COUNTS:START -->
 
-| 🧰 **61** open-source projects | 🗓️ **3 more** before the end of 2026 | 🎮 **1** free IT support simulator |
+| 🧰 **62** open-source projects | 🗓️ **2 more** before the end of 2026 | 🎮 **1** free IT support simulator |
 |:---:|:---:|:---:|
 
 <!-- COUNTS:END -->
@@ -36,7 +36,7 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 ### 🗺️ Roadmap to the end of 2026
 
-Every repo on the day its post went out on [the blog](https://inigogonzalezgarcia.github.io/blog/), by area. **56** published since 1 October, 3 still to come. The red line is today; the chart updates itself.
+Every repo on the day its post went out on [the blog](https://inigogonzalezgarcia.github.io/blog/), by area. **57** published since 1 October, 2 still to come. The red line is today; the chart updates itself.
 
 <a href="https://inigogonzalezgarcia.github.io/inigogonzalezgarcia/"><img src="assets/roadmap.svg" alt="Roadmap: every repo by area and day, from 1 October to 31 December 2026" width="100%"></a>
 
@@ -44,13 +44,12 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 
 <p align="center">
 <img src="https://img.shields.io/badge/October-34_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="October: 34 tools ✓">
-<img src="https://img.shields.io/badge/November-22_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="November: 22 tools ✓">
-<img src="https://img.shields.io/badge/December-3_planned-8b949e?style=for-the-badge" alt="December: 3 planned">
+<img src="https://img.shields.io/badge/November-23_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="November: 23 tools ✓">
+<img src="https://img.shields.io/badge/December-2_planned-8b949e?style=for-the-badge" alt="December: 2 planned">
 </p>
 
 | # | Coming | The question it answers | When |
 |---|---|---|---|
-| 62 | **Conditional Access Policy Review** | Entra ID Conditional Access policy by policy: users and apps that fall through the gaps, exclusions with no owner or end date, report-only policies forgotten in report-only | 13 Dec |
 | 63 | **Sentinel Detection Coverage** | Which attacks Microsoft Sentinel would actually see: data connectors that went quiet, analytic rules that never fire or never close, and coverage per technique | 19 Dec |
 | 64 | **Linux AD Integration Health** | Linux servers and desktops joined to Active Directory: machines that lost the trust, Kerberos and time drift, sudo rights from AD groups, and hosts no one manages | 20 Dec |
 
@@ -82,7 +81,7 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 </details>
 
 <details>
-<summary><b>🔐 Identity, security, compliance and AI governance</b> · 12 tools</summary>
+<summary><b>🔐 Identity, security, compliance and AI governance</b> · 13 tools</summary>
 
 | # | Tool | What it does |
 |---|---|---|
@@ -97,6 +96,7 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 | 51 | [Windows Server Baseline Drift](https://github.com/inigogonzalezgarcia/51-windows-server-baseline-drift) | Security baseline drift per server, GPOs that stopped applying, high-risk settings first |
 | 53 | [DNS, DHCP and IPAM Review](https://github.com/inigogonzalezgarcia/53-dns-dhcp-ipam-review) | Scopes filling up, failover, stale records and gaps in the IP plan |
 | 57 | [AI Use Case Register Review](https://github.com/inigogonzalezgarcia/57-ai-use-case-register) | Shadow AI, risk tiers from the AI policy, controls per tier and value, for the AI committee |
+| 62 | [Conditional Access Policy Review](https://github.com/inigogonzalezgarcia/62-conditional-access-policy-review) | Every Conditional Access policy next to a month of sign-ins: baseline gaps, report-only and idle policies, exclusions and break-glass, trusted locations, legacy auth |
 | 19 | [AD Infrastructure Health Check](https://github.com/inigogonzalezgarcia/19-ad-infra-health-check) | Weekly Active Directory check: DCs, replication, GPOs, privileged groups, krbtgt |
 
 </details>
