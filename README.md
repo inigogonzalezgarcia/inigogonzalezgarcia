@@ -80,7 +80,7 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 </details>
 
 <details>
-<summary><b>🔐 Identity, security, compliance and AI governance</b> · 14 tools</summary>
+<summary><b>🔐 Identity, security, compliance and AI governance</b> · 15 tools</summary>
 
 | # | Tool | What it does |
 |---|---|---|
@@ -97,6 +97,7 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 | 57 | [AI Use Case Register Review](https://github.com/inigogonzalezgarcia/57-ai-use-case-register) | Shadow AI, risk tiers from the AI policy, controls per tier and value, for the AI committee |
 | 62 | [Conditional Access Policy Review](https://github.com/inigogonzalezgarcia/62-conditional-access-policy-review) | Every Conditional Access policy next to a month of sign-ins: baseline gaps, report-only and idle policies, exclusions and break-glass, trusted locations, legacy auth |
 | 63 | [Sentinel Detection Coverage](https://github.com/inigogonzalezgarcia/63-sentinel-detection-coverage) | Sentinel analytics rules against the priority ATT&CK techniques: silent log sources, blind and failing rules, techniques with no working rule, noisy rules and slow triage |
+| 64 | [Linux AD Integration Health](https://github.com/inigogonzalezgarcia/64-linux-ad-integration-health) | Linux servers and desktops joined to Active Directory: broken trusts and shared computer accounts, SSSD, clock skew and DNS, open logins and sudo through AD groups |
 | 19 | [AD Infrastructure Health Check](https://github.com/inigogonzalezgarcia/19-ad-infra-health-check) | Weekly Active Directory check: DCs, replication, GPOs, privileged groups, krbtgt |
 
 </details>

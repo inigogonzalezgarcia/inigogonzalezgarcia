@@ -217,7 +217,8 @@ def badge(label: str, message: str, color: str) -> str:
 
 def blocks(m: dict, cfg: dict) -> tuple[str, str]:
     start, end, today, shown, left = m["start"], m["end"], m["today"], m["shown"], m["left"]
-    counts = (f"| 🧰 **{len(shown)}** open-source projects | 🗓️ **{len(left)} more** before the end of {end.year} | "
+    plan = f"🗓️ **{len(left)} more** before the end of {end.year}" if left else f"✅ **{end.year}** roadmap complete"
+    counts = (f"| 🧰 **{len(shown)}** open-source projects | {plan} | "
               "🎮 **1** free IT support simulator |\n|:---:|:---:|:---:|")
     parts = [f"### 🗺️ Roadmap to the end of {end.year}", "",
              f"Every repo on the day its post went out on [the blog]({cfg['blog']}), by area. **{m['in_range']}** published since "
@@ -233,8 +234,11 @@ def blocks(m: dict, cfg: dict) -> tuple[str, str]:
         if todo:
             msg = f"{done} built · {todo} to go" if done else f"{todo} planned"
             color = "e36209" if (y, mo) == (today.year, today.month) else "8b949e"
-        else:
+        elif done:
             msg, color = f"{done} tools ✓", "2ea44f"
+        else:
+            y, mo = (y + 1, 1) if mo == 12 else (y, mo + 1)
+            continue
         badges.append(badge(MONTHS[mo], msg, color))
         y, mo = (y + 1, 1) if mo == 12 else (y, mo + 1)
     parts += ['<p align="center">'] + badges + ["</p>", ""]
