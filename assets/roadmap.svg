@@ -202,8 +202,8 @@
 <rect x="259" y="238" width="10" height="18" rx="2" fill="#57606a"/>
 <rect x="307" y="238" width="10" height="18" rx="2" fill="#57606a"/>
 <line x1="12" y1="262" x2="1314" y2="262" stroke="#d1d9e0" stroke-width="1"/>
-<line x1="876.0" y1="4" x2="876.0" y2="268" stroke="#cf222e" stroke-width="2"/>
-<text x="876.0" y="282" font-size="12" font-weight="700" text-anchor="middle" fill="#cf222e">Today · 25 Nov</text>
+<line x1="888.0" y1="4" x2="888.0" y2="268" stroke="#cf222e" stroke-width="2"/>
+<text x="888.0" y="282" font-size="12" font-weight="700" text-anchor="middle" fill="#cf222e">Today · 26 Nov</text>
 <rect x="12" y="282" width="10" height="10" rx="2" fill="#57606a"/><text x="27" y="292" font-size="12" fill="#59636e">published (a number = several that day)</text>
 <rect x="292" y="282" width="10" height="10" rx="2" fill="none" stroke="#57606a" stroke-dasharray="2 2"/><text x="307" y="292" font-size="12" fill="#59636e">planned</text>
 </svg>
