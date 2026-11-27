@@ -13,7 +13,7 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 <!-- COUNTS:START -->
 
-| 🧰 **64** open-source projects | ✅ **2026** roadmap complete | 🎮 **1** free IT support simulator |
+| 🧰 **65** open-source projects | ✅ **2026** roadmap complete | 🎮 **1** free IT support simulator |
 |:---:|:---:|:---:|
 
 <!-- COUNTS:END -->
@@ -36,7 +36,7 @@ This GitHub is where I turn what that work teaches me into small, practical tool
 
 ### 🗺️ Roadmap to the end of 2026
 
-Every repo on the day its post went out on [the blog](https://inigogonzalezgarcia.github.io/blog/), by area. **59** published since 1 October. The red line is today; the chart updates itself.
+Every repo on the day its post went out on [the blog](https://inigogonzalezgarcia.github.io/blog/), by area. **60** published since 1 October. The red line is today; the chart updates itself.
 
 <a href="https://inigogonzalezgarcia.github.io/inigogonzalezgarcia/"><img src="assets/roadmap.svg" alt="Roadmap: every repo by area and day, from 1 October to 31 December 2026" width="100%"></a>
 
@@ -44,7 +44,7 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 
 <p align="center">
 <img src="https://img.shields.io/badge/October-34_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="October: 34 tools ✓">
-<img src="https://img.shields.io/badge/November-25_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="November: 25 tools ✓">
+<img src="https://img.shields.io/badge/November-26_tools_%E2%9C%93-2ea44f?style=for-the-badge" alt="November: 26 tools ✓">
 </p>
 
 <!-- ROADMAP:END -->
