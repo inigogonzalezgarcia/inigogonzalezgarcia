@@ -98,7 +98,7 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 </details>
 
 <details>
-<summary><b>🛠️ ITSM and service delivery</b> · 11 tools</summary>
+<summary><b>🛠️ ITSM and service delivery</b> · 12 tools</summary>
 
 | # | Tool | What it does |
 |---|---|---|
@@ -113,6 +113,7 @@ Every repo on the day its post went out on [the blog](https://inigogonzalezgarci
 | 56 | [CMDB Data Quality Review](https://github.com/inigogonzalezgarcia/56-cmdb-data-quality-review) | Can we trust the CMDB? Stale CIs, devices with no record, owners who left, broken links |
 | 61 | [Change Freeze & On-call Planner](https://github.com/inigogonzalezgarcia/61-change-freeze-oncall-planner) | Before the year-end freeze: gaps in the on-call rota, people on leave or on call too long, days with no emergency approver, and changes still planned inside it |
 | 65 | [Application Operations Review](https://github.com/inigogonzalezgarcia/65-application-operations-review) | Each business application against its own service: availability in its hours, vendor response, repeat incidents, ETL jobs that fail or stop, runbooks, DR and contracts |
+| 66 | [Grafana Alert Hygiene Review](https://github.com/inigogonzalezgarcia/66-grafana-alert-hygiene) | Grafana alerting once a month: owners, severities and runbooks, critical alerts that page nobody, noisy and blind rules, and the incidents users reported first |
 
 </details>
 
